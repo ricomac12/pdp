@@ -829,3 +829,231 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [04Dec2024 16:20:35.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set own game mode to Creative Mode]
 [04Dec2024 16:20:42.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set the time to 1000]
 [04Dec2024 16:20:59.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set the world border to 1.0 blocks wide]
+[04Dec2024 16:21:04.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set the world border to 256.0 blocks wide]
+[04Dec2024 16:21:10.543] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[04Dec2024 16:21:10.547] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[04Dec2024 16:21:10.548] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[04Dec2024 16:21:10.550] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[04Dec2024 16:21:32.842] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uoxpp9dgc3vy]: started parsing
+[04Dec2024 16:21:32.843] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uoxpp9dgc3vy]: Consuming argument ``
+[04Dec2024 16:22:10.703] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 16:22:10.710] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 16:22:10.766] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[04Dec2024 16:22:10.767] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[04Dec2024 16:22:10.768] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[04Dec2024 16:22:10.770] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[04Dec2024 16:22:30.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maintax moved too quickly! -6.364441240020376,-7.787236042950337,-1.2949078447505684
+[04Dec2024 16:22:43.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set the world border to 1.0 blocks wide]
+[04Dec2024 16:23:10.545] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[04Dec2024 16:23:10.549] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[04Dec2024 16:23:10.550] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[04Dec2024 16:23:10.555] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[04Dec2024 16:23:14.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set the world border to 500.0 blocks wide]
+[04Dec2024 16:23:20.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set the world border to 700.0 blocks wide]
+[04Dec2024 16:23:31.274] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 21 messages to dispatch.
+[04Dec2024 16:23:31.538] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[04Dec2024 16:23:31.587] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[04Dec2024 16:23:31.638] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[04Dec2024 16:23:31.690] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[04Dec2024 16:23:31.740] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[04Dec2024 16:23:31.789] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[04Dec2024 16:23:31.841] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[04Dec2024 16:23:31.890] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[04Dec2024 16:23:31.941] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[04Dec2024 16:23:31.990] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 9
+[04Dec2024 16:23:32.041] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 10
+[04Dec2024 16:23:32.089] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 11
+[04Dec2024 16:23:32.138] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 12
+[04Dec2024 16:23:32.192] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 13
+[04Dec2024 16:23:32.245] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 14
+[04Dec2024 16:23:32.281] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[04Dec2024 16:23:32.281] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[04Dec2024 16:23:32.281] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [minecraft, saturn, entityculling, canary, reignofnether, fastload, pluto, starlight, smoothboot, justzoom, fpsreducer, reeses_sodium_options, forge, rubidium, gamemenumodoption, konkrete, sodiumextra, clumps]
+[04Dec2024 16:23:32.281] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldedit:cui' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[04Dec2024 16:23:32.281] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[04Dec2024 16:23:32.281] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[04Dec2024 16:23:32.281] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[04Dec2024 16:23:32.281] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldedit:internal' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[04Dec2024 16:23:32.281] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[04Dec2024 16:23:32.281] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[04Dec2024 16:23:32.281] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[04Dec2024 16:23:32.281] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[04Dec2024 16:23:32.282] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'reignofnether:main' : Version test of '1' from client : ACCEPTED
+[04Dec2024 16:23:32.282] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[04Dec2024 16:23:32.282] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[04Dec2024 16:23:32.302] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 15
+[04Dec2024 16:23:32.422] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 16
+[04Dec2024 16:23:32.457] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 17
+[04Dec2024 16:23:32.486] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 18
+[04Dec2024 16:23:32.540] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 19
+[04Dec2024 16:23:32.558] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[04Dec2024 16:23:32.559] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Dec2024 16:23:32.559] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Dec2024 16:23:32.562] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[04Dec2024 16:23:32.562] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Dec2024 16:23:32.562] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Dec2024 16:23:32.573] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[04Dec2024 16:23:32.573] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Dec2024 16:23:32.573] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Dec2024 16:23:32.575] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[04Dec2024 16:23:32.576] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Dec2024 16:23:32.576] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Dec2024 16:23:32.579] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[04Dec2024 16:23:32.579] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Dec2024 16:23:32.579] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Dec2024 16:23:32.582] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 20
+[04Dec2024 16:23:32.683] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[04Dec2024 16:23:32.683] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Dec2024 16:23:32.683] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Dec2024 16:23:32.683] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[04Dec2024 16:23:32.683] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Dec2024 16:23:32.683] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Dec2024 16:23:32.684] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[04Dec2024 16:23:32.684] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Dec2024 16:23:32.684] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Dec2024 16:23:32.684] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[04Dec2024 16:23:32.684] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Dec2024 16:23:32.684] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Dec2024 16:23:32.684] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[04Dec2024 16:23:32.684] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Dec2024 16:23:32.684] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Dec2024 16:23:32.690] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[04Dec2024 16:23:32.690] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Dec2024 16:23:32.690] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Dec2024 16:23:32.694] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[04Dec2024 16:23:32.694] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Dec2024 16:23:32.694] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Dec2024 16:23:32.694] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[04Dec2024 16:23:32.694] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Dec2024 16:23:32.694] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Dec2024 16:23:32.694] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[04Dec2024 16:23:32.694] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Dec2024 16:23:32.694] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Dec2024 16:23:32.749] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[04Dec2024 16:23:32.749] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Dec2024 16:23:32.749] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Dec2024 16:23:32.849] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[04Dec2024 16:23:32.849] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Dec2024 16:23:32.849] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Dec2024 16:23:32.850] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[04Dec2024 16:23:32.850] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Dec2024 16:23:32.850] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Dec2024 16:23:34.753] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[04Dec2024 16:23:34.754] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Dec2024 16:23:34.754] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Dec2024 16:23:34.816] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[04Dec2024 16:23:34.816] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Dec2024 16:23:34.816] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Dec2024 16:23:34.841] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[04Dec2024 16:23:34.898] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4c627516
+[04Dec2024 16:23:34.911] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ricomac12[/[0:0:0:0:0:0:0:1%0]:55280] logged in with entity id 550 at (9.078883670788791, 5.0, 10.99561563132458)
+[04Dec2024 16:23:34.912] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@4c07f940 into net.minecraft.network.Connection@63e04114
+[04Dec2024 16:23:34.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ricomac12 joined the game
+[04Dec2024 16:23:35.051] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Player logged in: ricomac12, id: 550
+[04Dec2024 16:23:35.053] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Synced 0 buildings with player logged in
+[04Dec2024 16:24:10.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[04Dec2024 16:24:10.540] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[04Dec2024 16:24:10.541] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[04Dec2024 16:24:10.542] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[04Dec2024 16:24:13.992] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13skx4nqhthln]: started parsing
+[04Dec2024 16:24:13.993] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13skx4nqhthln]: Consuming argument ``
+[04Dec2024 16:24:14.526] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05ffjlpzeey5v]: started parsing
+[04Dec2024 16:24:14.526] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05ffjlpzeey5v]: Consuming argument `1`
+[04Dec2024 16:24:14.532] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05ffjlpzeey5v]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:24:14.947] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09z3khu91ypml]: started parsing
+[04Dec2024 16:24:14.947] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09z3khu91ypml]: Consuming argument `1`
+[04Dec2024 16:24:14.947] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09z3khu91ypml]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:24:24.532] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ejomsf06k6he]: started parsing
+[04Dec2024 16:24:24.532] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ejomsf06k6he]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:24:54.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maintax moved too quickly! 6.663848031230076,0.0,-8.473232818133027
+[04Dec2024 16:25:10.552] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[04Dec2024 16:25:10.556] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[04Dec2024 16:25:10.559] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[04Dec2024 16:25:10.563] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[04Dec2024 16:25:45.716] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0k30bbuk9qzmy]: started parsing
+[04Dec2024 16:25:45.716] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0k30bbuk9qzmy]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:25:51.226] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19jrw66yoxnkj]: started parsing
+[04Dec2024 16:25:51.226] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19jrw66yoxnkj]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:26:10.538] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[04Dec2024 16:26:10.540] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[04Dec2024 16:26:10.540] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[04Dec2024 16:26:10.540] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[04Dec2024 16:27:10.622] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 16:27:10.628] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 16:27:10.672] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[04Dec2024 16:27:10.673] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[04Dec2024 16:27:10.673] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[04Dec2024 16:27:10.675] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[04Dec2024 16:28:10.562] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[04Dec2024 16:28:10.579] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[04Dec2024 16:28:10.582] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[04Dec2024 16:28:10.585] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[04Dec2024 16:28:23.767] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fh0m20jlm3d7]: started parsing
+[04Dec2024 16:28:23.767] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fh0m20jlm3d7]: Consuming argument `1`
+[04Dec2024 16:28:23.768] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fh0m20jlm3d7]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:28:23.768] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uv07f60o783g]: started parsing
+[04Dec2024 16:28:23.769] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uv07f60o783g]: Consuming argument `1`
+[04Dec2024 16:28:23.769] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uv07f60o783g]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:28:24.406] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xldlpgxza40h]: started parsing
+[04Dec2024 16:28:24.407] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xldlpgxza40h]: Consuming argument `1`
+[04Dec2024 16:28:24.407] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xldlpgxza40h]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:28:24.408] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cn6sassr26r2]: started parsing
+[04Dec2024 16:28:24.408] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cn6sassr26r2]: Consuming argument `1`
+[04Dec2024 16:28:24.408] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cn6sassr26r2]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:28:24.792] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0obcc3zo3sjxw]: started parsing
+[04Dec2024 16:28:24.792] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0obcc3zo3sjxw]: Consuming argument `1`
+[04Dec2024 16:28:24.792] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0obcc3zo3sjxw]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:28:25.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made ricomac12 a server operator
+[04Dec2024 16:28:33.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Set own game mode to Creative Mode]
+[04Dec2024 16:28:37.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ricomac12 moved too quickly! -9.441571776677868,0.0,5.08475993251421
+[04Dec2024 16:28:40.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ricomac12 moved too quickly! -8.802919399197904,0.0,5.676980113937148
+[04Dec2024 16:29:01.161] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ricomac12 moved too quickly! -2.045237307818695,-0.5568109594912514,-10.665239464749746
+[04Dec2024 16:29:03.486] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maintax moved too quickly! 0.00692257381467698,-5.993468711139023,-8.916878246635264
+[04Dec2024 16:29:09.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ricomac12 moved too quickly! 9.392332657516295,2.1924845271855027,5.41514127914796
+[04Dec2024 16:29:10.543] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[04Dec2024 16:29:10.543] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[04Dec2024 16:29:10.543] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[04Dec2024 16:29:10.544] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[04Dec2024 16:29:13.695] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jdj9p4jq6tw7]: started parsing
+[04Dec2024 16:29:13.696] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jdj9p4jq6tw7]: Consuming argument ``
+[04Dec2024 16:29:14.015] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ghyxfhjwy0la]: started parsing
+[04Dec2024 16:29:14.015] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ghyxfhjwy0la]: Consuming argument `'`
+[04Dec2024 16:29:14.490] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19mk0sn3qfnlo]: started parsing
+[04Dec2024 16:29:14.491] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19mk0sn3qfnlo]: Consuming argument ``
+[04Dec2024 16:29:14.746] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jwb1fe513hzp]: started parsing
+[04Dec2024 16:29:14.746] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jwb1fe513hzp]: Consuming argument `0`
+[04Dec2024 16:29:14.747] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jwb1fe513hzp]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:29:14.945] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hjl5u0eti8t8]: started parsing
+[04Dec2024 16:29:14.945] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hjl5u0eti8t8]: Consuming argument `0`
+[04Dec2024 16:29:14.946] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hjl5u0eti8t8]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:29:15.049] [Server thread/DEBUG] [com.sk89q.worldedit.world.registry.BundledBlockData/]: Using union:/workspaces/pdp/servidor_minecraft/mods/worldedit-mod-7.2.12.jar%23101!/com/sk89q/worldedit/world/registry/blocks.119.json for bundled block data.
+[04Dec2024 16:29:39.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Gamerule maxPopulation is now set to: 150]
+[04Dec2024 16:30:07.023] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tkhbcojfbabp]: started parsing
+[04Dec2024 16:30:07.024] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tkhbcojfbabp]: Consuming argument `0`
+[04Dec2024 16:30:07.024] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tkhbcojfbabp]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:30:07.024] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qzkqlzgglp1o]: started parsing
+[04Dec2024 16:30:07.024] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qzkqlzgglp1o]: Consuming argument `0`
+[04Dec2024 16:30:07.025] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qzkqlzgglp1o]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:30:07.693] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1x6qbd87qenkp]: started parsing
+[04Dec2024 16:30:07.694] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1x6qbd87qenkp]: Consuming argument `0`
+[04Dec2024 16:30:07.695] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1x6qbd87qenkp]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:30:10.550] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[04Dec2024 16:30:10.551] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[04Dec2024 16:30:10.551] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[04Dec2024 16:30:10.552] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[04Dec2024 16:30:25.730] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10fmkze151jl1]: started parsing
+[04Dec2024 16:30:25.730] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10fmkze151jl1]: Consuming argument `0`
+[04Dec2024 16:30:25.730] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10fmkze151jl1]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:30:25.730] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1k1xnodba0tko]: started parsing
+[04Dec2024 16:30:25.730] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1k1xnodba0tko]: Consuming argument `0`
+[04Dec2024 16:30:25.731] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1k1xnodba0tko]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:30:26.249] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kdlxcuph97o5]: started parsing
+[04Dec2024 16:30:26.250] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kdlxcuph97o5]: Consuming argument `0`
+[04Dec2024 16:30:26.250] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kdlxcuph97o5]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:30:41.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Set the time to 1000]
+[04Dec2024 16:30:54.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Set iEnzoMC__'s game mode to Survival Mode]
+[04Dec2024 16:31:06.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Teleported iEnzoMC__ to ricomac12]
+[04Dec2024 16:31:10.541] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[04Dec2024 16:31:10.542] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[04Dec2024 16:31:10.542] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[04Dec2024 16:31:10.543] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save

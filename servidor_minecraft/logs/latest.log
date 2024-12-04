@@ -144,3 +144,69 @@
 [04Dec2024 16:20:35.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set own game mode to Creative Mode]
 [04Dec2024 16:20:42.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set the time to 1000]
 [04Dec2024 16:20:59.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set the world border to 1.0 blocks wide]
+[04Dec2024 16:21:04.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set the world border to 256.0 blocks wide]
+[04Dec2024 16:21:10.543] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[04Dec2024 16:21:10.547] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[04Dec2024 16:21:10.548] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[04Dec2024 16:21:10.550] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[04Dec2024 16:22:10.766] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[04Dec2024 16:22:10.767] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[04Dec2024 16:22:10.768] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[04Dec2024 16:22:10.770] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[04Dec2024 16:22:30.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maintax moved too quickly! -6.364441240020376,-7.787236042950337,-1.2949078447505684
+[04Dec2024 16:22:43.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set the world border to 1.0 blocks wide]
+[04Dec2024 16:23:10.545] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[04Dec2024 16:23:10.549] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[04Dec2024 16:23:10.550] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[04Dec2024 16:23:10.555] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[04Dec2024 16:23:14.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set the world border to 500.0 blocks wide]
+[04Dec2024 16:23:20.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set the world border to 700.0 blocks wide]
+[04Dec2024 16:23:34.898] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4c627516
+[04Dec2024 16:23:34.911] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ricomac12[/[0:0:0:0:0:0:0:1%0]:55280] logged in with entity id 550 at (9.078883670788791, 5.0, 10.99561563132458)
+[04Dec2024 16:23:34.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ricomac12 joined the game
+[04Dec2024 16:23:35.051] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Player logged in: ricomac12, id: 550
+[04Dec2024 16:23:35.053] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Synced 0 buildings with player logged in
+[04Dec2024 16:24:10.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[04Dec2024 16:24:10.540] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[04Dec2024 16:24:10.541] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[04Dec2024 16:24:10.542] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[04Dec2024 16:24:54.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maintax moved too quickly! 6.663848031230076,0.0,-8.473232818133027
+[04Dec2024 16:25:10.552] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[04Dec2024 16:25:10.556] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[04Dec2024 16:25:10.559] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[04Dec2024 16:25:10.563] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[04Dec2024 16:26:10.538] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[04Dec2024 16:26:10.540] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[04Dec2024 16:26:10.540] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[04Dec2024 16:26:10.540] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[04Dec2024 16:27:10.672] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[04Dec2024 16:27:10.673] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[04Dec2024 16:27:10.673] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[04Dec2024 16:27:10.675] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[04Dec2024 16:28:10.562] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[04Dec2024 16:28:10.579] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[04Dec2024 16:28:10.582] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[04Dec2024 16:28:10.585] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[04Dec2024 16:28:25.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made ricomac12 a server operator
+[04Dec2024 16:28:33.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Set own game mode to Creative Mode]
+[04Dec2024 16:28:37.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ricomac12 moved too quickly! -9.441571776677868,0.0,5.08475993251421
+[04Dec2024 16:28:40.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ricomac12 moved too quickly! -8.802919399197904,0.0,5.676980113937148
+[04Dec2024 16:29:01.161] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ricomac12 moved too quickly! -2.045237307818695,-0.5568109594912514,-10.665239464749746
+[04Dec2024 16:29:03.486] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maintax moved too quickly! 0.00692257381467698,-5.993468711139023,-8.916878246635264
+[04Dec2024 16:29:09.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ricomac12 moved too quickly! 9.392332657516295,2.1924845271855027,5.41514127914796
+[04Dec2024 16:29:10.543] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[04Dec2024 16:29:10.543] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[04Dec2024 16:29:10.543] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[04Dec2024 16:29:10.544] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[04Dec2024 16:29:39.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Gamerule maxPopulation is now set to: 150]
+[04Dec2024 16:30:10.550] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[04Dec2024 16:30:10.551] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[04Dec2024 16:30:10.551] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[04Dec2024 16:30:10.552] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[04Dec2024 16:30:41.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Set the time to 1000]
+[04Dec2024 16:30:54.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Set iEnzoMC__'s game mode to Survival Mode]
+[04Dec2024 16:31:06.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Teleported iEnzoMC__ to ricomac12]
+[04Dec2024 16:31:10.541] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[04Dec2024 16:31:10.542] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[04Dec2024 16:31:10.542] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[04Dec2024 16:31:10.543] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
