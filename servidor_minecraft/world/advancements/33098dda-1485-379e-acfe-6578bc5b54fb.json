@@ -224,6 +224,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-04 17:06:10 +0000",
       "minecraft:ravager": "2024-12-04 16:32:55 +0000"
     },
     "done": false

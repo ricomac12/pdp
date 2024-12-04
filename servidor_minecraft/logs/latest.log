@@ -504,3 +504,115 @@
 [04Dec2024 17:01:26.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Set Maintax's game mode to Survival Mode]
 [04Dec2024 17:01:26.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Set CesitarTuTerror's game mode to Survival Mode]
 [04Dec2024 17:01:53.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maintax was slain by ricomac12
+[04Dec2024 17:02:12.696] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[04Dec2024 17:02:12.697] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[04Dec2024 17:02:12.698] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[04Dec2024 17:02:12.699] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[04Dec2024 17:02:27.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set own game mode to Creative Mode]
+[04Dec2024 17:02:36.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Set own game mode to Creative Mode]
+[04Dec2024 17:02:57.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ricomac12 has made the advancement [Monster Hunter]
+[04Dec2024 17:03:12.541] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[04Dec2024 17:03:12.542] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[04Dec2024 17:03:12.543] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[04Dec2024 17:03:12.544] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[04Dec2024 17:03:33.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Applied effect Glowing to 4 targets]
+[04Dec2024 17:04:12.538] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[04Dec2024 17:04:12.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[04Dec2024 17:04:12.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[04Dec2024 17:04:12.540] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[04Dec2024 17:04:14.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Applied effect Speed to iEnzoMC__]
+[04Dec2024 17:04:28.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iEnzoMC__ moved wrongly!
+[04Dec2024 17:04:29.408] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iEnzoMC__ moved wrongly!
+[04Dec2024 17:04:32.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Removed every effect from iEnzoMC__]
+[04Dec2024 17:04:52.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Applied effect Levitation to CesitarTuTerror]
+[04Dec2024 17:04:53.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesitarTuTerror has completed the challenge [Great View From Up Here]
+[04Dec2024 17:04:57.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Applied effect Speed to CesitarTuTerror]
+[04Dec2024 17:05:06.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CesitarTuTerror was kicked for floating too long!
+[04Dec2024 17:05:06.138] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CesitarTuTerror lost connection: Flying is not enabled on this server
+[04Dec2024 17:05:06.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesitarTuTerror left the game
+[04Dec2024 17:05:06.142] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Player logged out: CesitarTuTerror, id: 914
+[04Dec2024 17:05:06.187] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Dec2024 17:05:12.541] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[04Dec2024 17:05:12.542] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[04Dec2024 17:05:12.543] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[04Dec2024 17:05:12.547] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[04Dec2024 17:05:12.946] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@49bf2570
+[04Dec2024 17:05:12.955] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CesitarTuTerror[/[0:0:0:0:0:0:0:1%0]:41022] logged in with entity id 3580 at (76.31163496841026, 943.961175695599, 35.54900930417769)
+[04Dec2024 17:05:12.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesitarTuTerror joined the game
+[04Dec2024 17:05:13.227] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Player logged in: CesitarTuTerror, id: 3580
+[04Dec2024 17:05:13.229] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Synced 0 buildings with player logged in
+[04Dec2024 17:05:17.687] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CesitarTuTerror was kicked for floating too long!
+[04Dec2024 17:05:17.737] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CesitarTuTerror lost connection: Flying is not enabled on this server
+[04Dec2024 17:05:17.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesitarTuTerror left the game
+[04Dec2024 17:05:17.738] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Player logged out: CesitarTuTerror, id: 3580
+[04Dec2024 17:05:20.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iEnzoMC__> esta arriba
+[04Dec2024 17:05:23.199] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@530138c
+[04Dec2024 17:05:23.208] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CesitarTuTerror[/[0:0:0:0:0:0:0:1%0]:34608] logged in with entity id 3585 at (76.31163496841026, 758.6189803595133, 35.54900930417769)
+[04Dec2024 17:05:23.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesitarTuTerror joined the game
+[04Dec2024 17:05:23.386] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Player logged in: CesitarTuTerror, id: 3585
+[04Dec2024 17:05:23.395] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Synced 0 buildings with player logged in
+[04Dec2024 17:05:24.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Teleported 4 entities to iEnzoMC__]
+[04Dec2024 17:05:25.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesitarTuTerror fell from a high place
+[04Dec2024 17:05:43.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Teleported iEnzoMC__ to CesitarTuTerror]
+[04Dec2024 17:05:52.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Applied effect Speed to CesitarTuTerror]
+[04Dec2024 17:06:12.537] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[04Dec2024 17:06:12.538] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[04Dec2024 17:06:12.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[04Dec2024 17:06:12.541] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[04Dec2024 17:06:19.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Applied effect Speed to CesitarTuTerror]
+[04Dec2024 17:06:29.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Applied effect Speed to CesitarTuTerror]
+[04Dec2024 17:06:56.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Applied effect Levitation to iEnzoMC__]
+[04Dec2024 17:06:58.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Applied effect Speed to iEnzoMC__]
+[04Dec2024 17:07:09.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Removed every effect from iEnzoMC__]
+[04Dec2024 17:07:12.705] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[04Dec2024 17:07:12.706] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[04Dec2024 17:07:12.706] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[04Dec2024 17:07:12.707] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[04Dec2024 17:07:19.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Applied effect Speed to iEnzoMC__]
+[04Dec2024 17:07:25.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Teleported iEnzoMC__ to CesitarTuTerror]
+[04Dec2024 17:07:32.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Applied effect Speed to iEnzoMC__]
+[04Dec2024 17:07:53.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Applied effect Nausea to iEnzoMC__]
+[04Dec2024 17:08:12.540] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[04Dec2024 17:08:12.541] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[04Dec2024 17:08:12.541] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[04Dec2024 17:08:12.543] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[04Dec2024 17:08:15.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Applied effect Speed to iEnzoMC__]
+[04Dec2024 17:08:19.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Applied effect Nausea to CesitarTuTerror]
+[04Dec2024 17:08:20.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Applied effect Speed to iEnzoMC__]
+[04Dec2024 17:08:34.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Applied effect Nausea to CesitarTuTerror]
+[04Dec2024 17:08:37.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Applied effect Speed to CesitarTuTerror]
+[04Dec2024 17:08:57.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Applied effect Levitation to iEnzoMC__]
+[04Dec2024 17:09:03.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Removed every effect from iEnzoMC__]
+[04Dec2024 17:09:12.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[04Dec2024 17:09:12.540] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[04Dec2024 17:09:12.541] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[04Dec2024 17:09:12.542] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[04Dec2024 17:09:23.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Applied effect Strength to 4 targets]
+[04Dec2024 17:09:29.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesitarTuTerror was slain by iEnzoMC__
+[04Dec2024 17:09:34.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iEnzoMC__> ez
+[04Dec2024 17:10:06.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Teleported CesitarTuTerror to iEnzoMC__]
+[04Dec2024 17:10:08.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Teleported iEnzoMC__ to CesitarTuTerror]
+[04Dec2024 17:10:12.587] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[04Dec2024 17:10:12.589] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[04Dec2024 17:10:12.589] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[04Dec2024 17:10:12.593] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[04Dec2024 17:10:37.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Applied effect Blindness to CesitarTuTerror]
+[04Dec2024 17:10:43.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Applied effect Invisibility to CesitarTuTerror]
+[04Dec2024 17:10:51.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Applied effect Invisibility to CesitarTuTerror]
+[04Dec2024 17:10:55.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Applied effect Invisibility to CesitarTuTerror]
+[04Dec2024 17:11:12.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[04Dec2024 17:11:12.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[04Dec2024 17:11:12.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[04Dec2024 17:11:12.540] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[04Dec2024 17:11:33.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ricomac12 has made the advancement [Ol' Betsy]
+[04Dec2024 17:11:33.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ricomac12 has made the advancement [Take Aim]
+[04Dec2024 17:11:42.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Applied effect Blindness to 4 targets]
+[04Dec2024 17:11:48.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Applied effect Blindness to 4 targets]
+[04Dec2024 17:11:52.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Applied effect Blindness to 4 targets]
+[04Dec2024 17:11:57.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Applied effect Blindness to iEnzoMC__]
+[04Dec2024 17:12:12.672] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[04Dec2024 17:12:12.673] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[04Dec2024 17:12:12.673] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[04Dec2024 17:12:12.674] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[04Dec2024 17:12:19.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Applied effect Speed to iEnzoMC__]
+[04Dec2024 17:12:21.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iEnzoMC__ moved too quickly! 17.786579390884526,-0.16191881354283755,1.6226680676979583
