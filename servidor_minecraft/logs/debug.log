@@ -1519,3 +1519,339 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.MinecraftSer
 [04Dec2024 16:51:33.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iEnzoMC__> pon me survival
 [04Dec2024 16:51:39.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Applied enchantment Power V to ricomac12's item]
 [04Dec2024 16:51:45.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesitarTuTerror has made the advancement [Best Friends Forever]
+[04Dec2024 16:52:06.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Applied enchantment Unbreaking III to ricomac12's item]
+[04Dec2024 16:52:12.598] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 16:52:12.601] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 16:52:12.637] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[04Dec2024 16:52:12.638] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[04Dec2024 16:52:12.638] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[04Dec2024 16:52:12.639] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[04Dec2024 16:52:31.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ricomac12 moved too quickly! 10.552188864795298,0.0,-0.2710338791813811
+[04Dec2024 16:52:33.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesitarTuTerror has reached the goal [Sky's the Limit]
+[04Dec2024 16:52:39.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Teleported CesitarTuTerror to ricomac12]
+[04Dec2024 16:52:48.606] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kuy3udw53gq6]: started parsing
+[04Dec2024 16:52:48.607] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kuy3udw53gq6]: Consuming argument ``
+[04Dec2024 16:52:48.766] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0aatxpgerqwms]: started parsing
+[04Dec2024 16:52:48.766] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0aatxpgerqwms]: Consuming argument `s`
+[04Dec2024 16:52:48.766] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0aatxpgerqwms]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:52:48.843] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tpeo34v1haee]: started parsing
+[04Dec2024 16:52:48.843] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tpeo34v1haee]: Consuming argument `sp`
+[04Dec2024 16:52:49.063] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zkrlt1gj722d]: started parsing
+[04Dec2024 16:52:49.064] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zkrlt1gj722d]: Consuming argument `sph`
+[04Dec2024 16:52:49.165] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14f78p2zlpl8b]: started parsing
+[04Dec2024 16:52:49.166] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14f78p2zlpl8b]: Consuming argument `sphe`
+[04Dec2024 16:52:49.643] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pcykqvxlo8vt]: started parsing
+[04Dec2024 16:52:49.643] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pcykqvxlo8vt]: Consuming argument `spher`
+[04Dec2024 16:52:49.802] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0z13pbk4j1kfl]: started parsing
+[04Dec2024 16:52:49.802] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0z13pbk4j1kfl]: Consuming argument `sphere`
+[04Dec2024 16:52:49.802] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0z13pbk4j1kfl]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:52:50.003] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hd8dxx5voj3x]: started parsing
+[04Dec2024 16:52:50.003] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hd8dxx5voj3x]: Consuming argument `sphere`
+[04Dec2024 16:52:50.003] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hd8dxx5voj3x]: Consuming argument ``
+[04Dec2024 16:52:52.983] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vdpehogowc1w]: started parsing
+[04Dec2024 16:52:52.984] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vdpehogowc1w]: Consuming argument `sphere`
+[04Dec2024 16:52:52.984] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vdpehogowc1w]: Consuming argument `5`
+[04Dec2024 16:52:52.984] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vdpehogowc1w]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:52:53.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iEnzoMC__> pon me survival
+[04Dec2024 16:52:53.303] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lscldzlb1e11]: started parsing
+[04Dec2024 16:52:53.303] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lscldzlb1e11]: Consuming argument `sphere`
+[04Dec2024 16:52:53.303] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lscldzlb1e11]: Consuming argument `5:`
+[04Dec2024 16:52:53.383] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ckap98uowvl1]: started parsing
+[04Dec2024 16:52:53.383] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ckap98uowvl1]: Consuming argument `sphere`
+[04Dec2024 16:52:53.383] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ckap98uowvl1]: Consuming argument `5:%`
+[04Dec2024 16:52:53.903] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05893th5rm87h]: started parsing
+[04Dec2024 16:52:53.903] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05893th5rm87h]: Consuming argument `sphere`
+[04Dec2024 16:52:53.904] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05893th5rm87h]: Consuming argument `5:`
+[04Dec2024 16:52:54.043] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1d0mrohn5bxc4]: started parsing
+[04Dec2024 16:52:54.043] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1d0mrohn5bxc4]: Consuming argument `sphere`
+[04Dec2024 16:52:54.044] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1d0mrohn5bxc4]: Consuming argument `5:5`
+[04Dec2024 16:52:54.044] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1d0mrohn5bxc4]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:52:54.903] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rcbl1j5wpraw]: started parsing
+[04Dec2024 16:52:54.903] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rcbl1j5wpraw]: Consuming argument `sphere`
+[04Dec2024 16:52:54.903] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rcbl1j5wpraw]: Consuming argument `5:5`
+[04Dec2024 16:52:54.904] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rcbl1j5wpraw]: Consuming argument ``
+[04Dec2024 16:52:55.763] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11ctkr13kxh2h]: started parsing
+[04Dec2024 16:52:55.763] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11ctkr13kxh2h]: Consuming argument `sphere`
+[04Dec2024 16:52:55.763] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11ctkr13kxh2h]: Consuming argument `5:5`
+[04Dec2024 16:52:55.764] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11ctkr13kxh2h]: Consuming argument `6`
+[04Dec2024 16:52:55.764] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11ctkr13kxh2h]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:52:56.423] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b8eub3o35mx9]: started parsing
+[04Dec2024 16:52:56.424] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b8eub3o35mx9]: Consuming argument `sphere`
+[04Dec2024 16:52:56.424] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b8eub3o35mx9]: Consuming argument `5:5`
+[04Dec2024 16:52:56.424] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b8eub3o35mx9]: Consuming argument ``
+[04Dec2024 16:52:57.203] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1n9wvwud0xqhw]: started parsing
+[04Dec2024 16:52:57.203] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1n9wvwud0xqhw]: Consuming argument `sphere`
+[04Dec2024 16:52:57.204] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1n9wvwud0xqhw]: Consuming argument `5:5`
+[04Dec2024 16:52:57.204] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1n9wvwud0xqhw]: Consuming argument `4`
+[04Dec2024 16:52:57.204] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1n9wvwud0xqhw]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:52:57.423] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1r9m5g1ewzgmm]: started parsing
+[04Dec2024 16:52:57.424] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1r9m5g1ewzgmm]: Consuming argument `sphere`
+[04Dec2024 16:52:57.424] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1r9m5g1ewzgmm]: Consuming argument `5:5`
+[04Dec2024 16:52:57.424] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1r9m5g1ewzgmm]: Consuming argument `4`
+[04Dec2024 16:52:57.424] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1r9m5g1ewzgmm]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:53:12.538] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[04Dec2024 16:53:12.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[04Dec2024 16:53:12.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[04Dec2024 16:53:12.541] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[04Dec2024 16:53:13.564] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j473fgeet8fu]: started parsing
+[04Dec2024 16:53:13.564] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j473fgeet8fu]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:53:15.226] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pwktwy0iljh9]: started parsing
+[04Dec2024 16:53:15.226] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pwktwy0iljh9]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:53:46.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Set Maintax's game mode to Survival Mode]
+[04Dec2024 16:53:46.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Set own game mode to Survival Mode]
+[04Dec2024 16:53:46.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Set iEnzoMC__'s game mode to Survival Mode]
+[04Dec2024 16:53:46.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Set CesitarTuTerror's game mode to Survival Mode]
+[04Dec2024 16:53:47.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iEnzoMC__ has made the advancement [Take Aim]
+[04Dec2024 16:53:48.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesitarTuTerror was shot by iEnzoMC__
+[04Dec2024 16:53:51.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set own game mode to Creative Mode]
+[04Dec2024 16:53:58.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ricomac12 has reached the goal [Postmortal]
+[04Dec2024 16:54:10.033] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gfaulb81jvrp]: started parsing
+[04Dec2024 16:54:10.033] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gfaulb81jvrp]: Consuming argument ``
+[04Dec2024 16:54:10.034] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gfaulb81jvrp]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:54:10.543] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15i8mqva8rcim]: started parsing
+[04Dec2024 16:54:10.543] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15i8mqva8rcim]: Consuming argument `2`
+[04Dec2024 16:54:10.543] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15i8mqva8rcim]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:54:11.412] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ipres2xqnvm3]: started parsing
+[04Dec2024 16:54:11.412] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ipres2xqnvm3]: Consuming argument ``
+[04Dec2024 16:54:11.413] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ipres2xqnvm3]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:54:11.951] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13rppq0tl9e45]: started parsing
+[04Dec2024 16:54:11.951] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13rppq0tl9e45]: Consuming argument `1`
+[04Dec2024 16:54:11.951] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13rppq0tl9e45]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:54:12.063] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13rqog6pfur1d]: started parsing
+[04Dec2024 16:54:12.063] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13rqog6pfur1d]: Consuming argument `10`
+[04Dec2024 16:54:12.063] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13rqog6pfur1d]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:54:12.537] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[04Dec2024 16:54:12.538] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[04Dec2024 16:54:12.538] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[04Dec2024 16:54:12.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[04Dec2024 16:54:12.764] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ts4gy107scgg]: started parsing
+[04Dec2024 16:54:12.764] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ts4gy107scgg]: Consuming argument `1`
+[04Dec2024 16:54:12.765] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ts4gy107scgg]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:54:12.922] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19w425jn02lmb]: started parsing
+[04Dec2024 16:54:12.922] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19w425jn02lmb]: Consuming argument ``
+[04Dec2024 16:54:12.922] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19w425jn02lmb]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:54:13.263] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [169yr7yxmm4bv]: started parsing
+[04Dec2024 16:54:13.263] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [169yr7yxmm4bv]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:54:14.003] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00ea5q6gyj2g3]: started parsing
+[04Dec2024 16:54:14.003] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00ea5q6gyj2g3]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:54:14.705] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18hmw7rx1o2ob]: started parsing
+[04Dec2024 16:54:14.705] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18hmw7rx1o2ob]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:54:15.463] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kuam4d4rt85l]: started parsing
+[04Dec2024 16:54:15.463] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kuam4d4rt85l]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:54:16.111] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ixn4ho19z7hr]: started parsing
+[04Dec2024 16:54:16.111] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ixn4ho19z7hr]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:54:16.811] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l3csga96dk6l]: started parsing
+[04Dec2024 16:54:16.811] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l3csga96dk6l]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:54:17.523] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0n8qjv1o867lt]: started parsing
+[04Dec2024 16:54:17.524] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0n8qjv1o867lt]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:54:18.363] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lh6fla5p1mbc]: started parsing
+[04Dec2024 16:54:18.363] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lh6fla5p1mbc]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:54:18.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iEnzoMC__> mano dijimos solo hierro
+[04Dec2024 16:54:19.102] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ptl0dkhdtiyi]: started parsing
+[04Dec2024 16:54:19.102] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ptl0dkhdtiyi]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:54:20.503] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [100nxv0ciestn]: started parsing
+[04Dec2024 16:54:20.503] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [100nxv0ciestn]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:54:21.203] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h497r1acvyzx]: started parsing
+[04Dec2024 16:54:21.203] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h497r1acvyzx]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:54:21.903] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0s7e7uwmc5cr3]: started parsing
+[04Dec2024 16:54:21.904] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0s7e7uwmc5cr3]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:54:22.625] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mh49p2q3igwh]: started parsing
+[04Dec2024 16:54:22.625] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mh49p2q3igwh]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:54:23.351] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lqgfb16sls5y]: started parsing
+[04Dec2024 16:54:23.351] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lqgfb16sls5y]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:54:24.104] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kcvorqmqbd5j]: started parsing
+[04Dec2024 16:54:24.104] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kcvorqmqbd5j]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:54:24.803] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rr586i1rqoo8]: started parsing
+[04Dec2024 16:54:24.803] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rr586i1rqoo8]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:54:25.623] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [177d2t6h116pf]: started parsing
+[04Dec2024 16:54:25.623] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [177d2t6h116pf]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:54:26.504] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17xu1jsdy63y3]: started parsing
+[04Dec2024 16:54:26.504] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17xu1jsdy63y3]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:54:28.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iEnzoMC__> el pata tenia como 10 totem}
+[04Dec2024 16:54:34.543] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zx17eeffoirx]: started parsing
+[04Dec2024 16:54:34.543] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zx17eeffoirx]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:54:43.725] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mcos6vwnjszp]: started parsing
+[04Dec2024 16:54:43.725] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mcos6vwnjszp]: Consuming argument ``
+[04Dec2024 16:54:44.964] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1k873ui87er6l]: started parsing
+[04Dec2024 16:54:44.964] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1k873ui87er6l]: Consuming argument `s`
+[04Dec2024 16:54:44.964] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1k873ui87er6l]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:54:45.022] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cybf15y34hdk]: started parsing
+[04Dec2024 16:54:45.022] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cybf15y34hdk]: Consuming argument `sp`
+[04Dec2024 16:54:45.212] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wcmgud7436se]: started parsing
+[04Dec2024 16:54:45.212] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wcmgud7436se]: Consuming argument `sph`
+[04Dec2024 16:54:45.219] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13wg2lnpen9u6]: started parsing
+[04Dec2024 16:54:45.219] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13wg2lnpen9u6]: Consuming argument `sphe`
+[04Dec2024 16:54:45.221] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0x2klx8g1pslt]: started parsing
+[04Dec2024 16:54:45.221] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0x2klx8g1pslt]: Consuming argument `sphej`
+[04Dec2024 16:54:45.419] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bnqsfg2gkrvm]: started parsing
+[04Dec2024 16:54:45.419] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bnqsfg2gkrvm]: Consuming argument `sphejr`
+[04Dec2024 16:54:45.562] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h34ci2vbu34l]: started parsing
+[04Dec2024 16:54:45.562] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h34ci2vbu34l]: Consuming argument `sphej`
+[04Dec2024 16:54:45.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Set own game mode to Creative Mode]
+[04Dec2024 16:54:45.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Set iEnzoMC__'s game mode to Creative Mode]
+[04Dec2024 16:54:45.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Set CesitarTuTerror's game mode to Creative Mode]
+[04Dec2024 16:54:45.725] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vpjw6ydkya92]: started parsing
+[04Dec2024 16:54:45.725] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vpjw6ydkya92]: Consuming argument `sphe`
+[04Dec2024 16:54:45.842] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j0ifdvoiggh8]: started parsing
+[04Dec2024 16:54:45.842] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j0ifdvoiggh8]: Consuming argument `sphee`
+[04Dec2024 16:54:46.063] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hx3yriwv4ny4]: started parsing
+[04Dec2024 16:54:46.063] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hx3yriwv4ny4]: Consuming argument `spheer`
+[04Dec2024 16:54:46.303] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13gvnqdfkm1d5]: started parsing
+[04Dec2024 16:54:46.303] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13gvnqdfkm1d5]: Consuming argument `sphee`
+[04Dec2024 16:54:46.425] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ejweg60jfd15]: started parsing
+[04Dec2024 16:54:46.425] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ejweg60jfd15]: Consuming argument `sphe`
+[04Dec2024 16:54:46.443] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02ob74ailw655]: started parsing
+[04Dec2024 16:54:46.443] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02ob74ailw655]: Consuming argument `spher`
+[04Dec2024 16:54:46.643] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0unme7taxl77r]: started parsing
+[04Dec2024 16:54:46.643] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0unme7taxl77r]: Consuming argument `sphere`
+[04Dec2024 16:54:46.643] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0unme7taxl77r]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:54:46.816] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vqaiit9zpswt]: started parsing
+[04Dec2024 16:54:46.816] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vqaiit9zpswt]: Consuming argument `sphere`
+[04Dec2024 16:54:46.816] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vqaiit9zpswt]: Consuming argument ``
+[04Dec2024 16:54:47.002] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1actcm2ybveyp]: started parsing
+[04Dec2024 16:54:47.002] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1actcm2ybveyp]: Consuming argument `sphere`
+[04Dec2024 16:54:47.002] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1actcm2ybveyp]: Consuming argument `0`
+[04Dec2024 16:54:47.003] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1actcm2ybveyp]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:54:47.123] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [159ew921u3bf9]: started parsing
+[04Dec2024 16:54:47.123] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [159ew921u3bf9]: Consuming argument `sphere`
+[04Dec2024 16:54:47.123] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [159ew921u3bf9]: Consuming argument `0`
+[04Dec2024 16:54:47.124] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [159ew921u3bf9]: Consuming argument ``
+[04Dec2024 16:54:47.603] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1azos3io7wzaq]: started parsing
+[04Dec2024 16:54:47.603] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1azos3io7wzaq]: Consuming argument `sphere`
+[04Dec2024 16:54:47.603] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1azos3io7wzaq]: Consuming argument `0`
+[04Dec2024 16:54:47.603] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1azos3io7wzaq]: Consuming argument `5`
+[04Dec2024 16:54:47.604] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1azos3io7wzaq]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:54:47.712] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12s9g6pomoe1f]: started parsing
+[04Dec2024 16:54:47.713] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12s9g6pomoe1f]: Consuming argument `sphere`
+[04Dec2024 16:54:47.713] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12s9g6pomoe1f]: Consuming argument `0`
+[04Dec2024 16:54:47.713] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12s9g6pomoe1f]: Consuming argument `5`
+[04Dec2024 16:54:47.713] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12s9g6pomoe1f]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:54:54.664] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16iua13rzm869]: started parsing
+[04Dec2024 16:54:54.665] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16iua13rzm869]: Consuming argument `5:5`
+[04Dec2024 16:54:54.666] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16iua13rzm869]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:54:55.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Removed 153 items from 4 players]
+[04Dec2024 16:55:12.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[04Dec2024 16:55:12.540] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[04Dec2024 16:55:12.540] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[04Dec2024 16:55:12.541] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[04Dec2024 16:55:42.763] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0q7h64f1hf6e3]: started parsing
+[04Dec2024 16:55:42.763] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0q7h64f1hf6e3]: Consuming argument ``
+[04Dec2024 16:55:42.903] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02e6va6gdwpsi]: started parsing
+[04Dec2024 16:55:42.904] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02e6va6gdwpsi]: Consuming argument `a`
+[04Dec2024 16:55:43.103] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19wq9g5lazplf]: started parsing
+[04Dec2024 16:55:43.103] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19wq9g5lazplf]: Consuming argument `ai`
+[04Dec2024 16:55:43.203] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gxdpfo5yztjl]: started parsing
+[04Dec2024 16:55:43.203] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gxdpfo5yztjl]: Consuming argument `air`
+[04Dec2024 16:55:43.203] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gxdpfo5yztjl]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:55:43.525] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yav1weemess5]: started parsing
+[04Dec2024 16:55:43.525] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yav1weemess5]: Consuming argument `air`
+[04Dec2024 16:55:43.526] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yav1weemess5]: Consuming argument ``
+[04Dec2024 16:55:44.362] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xrobqlka130y]: started parsing
+[04Dec2024 16:55:44.362] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xrobqlka130y]: Consuming argument `air`
+[04Dec2024 16:55:44.363] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xrobqlka130y]: Consuming argument `b`
+[04Dec2024 16:55:44.423] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vw4x161x5vsm]: started parsing
+[04Dec2024 16:55:44.423] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vw4x161x5vsm]: Consuming argument `air`
+[04Dec2024 16:55:44.423] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vw4x161x5vsm]: Consuming argument `ba`
+[04Dec2024 16:55:44.564] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16yfvgejx21cf]: started parsing
+[04Dec2024 16:55:44.564] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16yfvgejx21cf]: Consuming argument `air`
+[04Dec2024 16:55:44.564] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16yfvgejx21cf]: Consuming argument `bas`
+[04Dec2024 16:55:44.743] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1p6lefozuthy2]: started parsing
+[04Dec2024 16:55:44.743] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1p6lefozuthy2]: Consuming argument `air`
+[04Dec2024 16:55:44.744] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1p6lefozuthy2]: Consuming argument `basa`
+[04Dec2024 16:55:45.064] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0i9kcg3y47zrb]: started parsing
+[04Dec2024 16:55:45.064] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0i9kcg3y47zrb]: Consuming argument `air`
+[04Dec2024 16:55:45.065] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0i9kcg3y47zrb]: Consuming argument `basak`
+[04Dec2024 16:55:45.243] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ak3uu418aa1j]: started parsing
+[04Dec2024 16:55:45.243] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ak3uu418aa1j]: Consuming argument `air`
+[04Dec2024 16:55:45.244] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ak3uu418aa1j]: Consuming argument `basakt`
+[04Dec2024 16:55:45.643] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kuhne25vw82a]: started parsing
+[04Dec2024 16:55:45.643] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kuhne25vw82a]: Consuming argument `air`
+[04Dec2024 16:55:45.643] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kuhne25vw82a]: Consuming argument `basakt`
+[04Dec2024 16:55:46.363] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vcbs33w9pq5f]: started parsing
+[04Dec2024 16:55:46.363] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vcbs33w9pq5f]: Consuming argument `air`
+[04Dec2024 16:55:46.363] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vcbs33w9pq5f]: Consuming argument `basakt`
+[04Dec2024 16:55:46.364] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11j9686lnnsok]: started parsing
+[04Dec2024 16:55:46.370] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11j9686lnnsok]: Consuming argument `air`
+[04Dec2024 16:55:46.370] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11j9686lnnsok]: Consuming argument `basakt`
+[04Dec2024 16:55:46.807] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ert3i82harnf]: started parsing
+[04Dec2024 16:55:46.808] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ert3i82harnf]: Consuming argument `air`
+[04Dec2024 16:55:46.808] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ert3i82harnf]: Consuming argument `basak`
+[04Dec2024 16:55:46.933] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0paigzt6vwnl8]: started parsing
+[04Dec2024 16:55:46.933] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0paigzt6vwnl8]: Consuming argument `air`
+[04Dec2024 16:55:46.933] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0paigzt6vwnl8]: Consuming argument `basa`
+[04Dec2024 16:55:47.163] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gm7qs1ycm2dy]: started parsing
+[04Dec2024 16:55:47.163] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gm7qs1ycm2dy]: Consuming argument `air`
+[04Dec2024 16:55:47.163] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gm7qs1ycm2dy]: Consuming argument `basal`
+[04Dec2024 16:55:47.303] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02tof1idiehpt]: started parsing
+[04Dec2024 16:55:47.303] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02tof1idiehpt]: Consuming argument `air`
+[04Dec2024 16:55:47.303] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02tof1idiehpt]: Consuming argument `basalt`
+[04Dec2024 16:55:47.303] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02tof1idiehpt]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:55:47.623] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ox6r4dhv7u6e]: started parsing
+[04Dec2024 16:55:47.623] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ox6r4dhv7u6e]: Consuming argument `air`
+[04Dec2024 16:55:47.623] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ox6r4dhv7u6e]: Consuming argument `basalt`
+[04Dec2024 16:55:47.624] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ox6r4dhv7u6e]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:55:53.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Applied effect Glowing to 4 targets]
+[04Dec2024 16:56:12.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[04Dec2024 16:56:12.540] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[04Dec2024 16:56:12.540] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[04Dec2024 16:56:12.541] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[04Dec2024 16:56:24.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iEnzoMC__ has reached the goal [Sky's the Limit]
+[04Dec2024 16:56:37.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maintax has made the advancement [Hot Stuff]
+[04Dec2024 16:56:53.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Gamerule keepInventory is now set to: true]
+[04Dec2024 16:57:12.632] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 16:57:12.636] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 16:57:12.670] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[04Dec2024 16:57:12.671] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[04Dec2024 16:57:12.671] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[04Dec2024 16:57:12.672] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[04Dec2024 16:57:42.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maintax has made the advancement [Stone Age]
+[04Dec2024 16:57:44.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Set spawn point to 141, -6, 92 [0.0] in minecraft:overworld for iEnzoMC__]
+[04Dec2024 16:57:57.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iEnzoMC__> yayyaya
+[04Dec2024 16:57:59.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iEnzoMC__> dale
+[04Dec2024 16:58:04.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Set iEnzoMC__'s game mode to Survival Mode]
+[04Dec2024 16:58:12.538] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[04Dec2024 16:58:12.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[04Dec2024 16:58:12.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[04Dec2024 16:58:12.540] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[04Dec2024 16:58:34.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iEnzoMC__> dale cohete
+[04Dec2024 16:58:37.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Gamerule mobGriefing is now set to: false]
+[04Dec2024 16:58:38.823] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12nle2tuumx4v]: started parsing
+[04Dec2024 16:58:38.823] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12nle2tuumx4v]: Consuming argument `air`
+[04Dec2024 16:58:38.824] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12nle2tuumx4v]: Consuming argument `basalt`
+[04Dec2024 16:58:38.824] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12nle2tuumx4v]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:58:38.825] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09octbcu5xovt]: started parsing
+[04Dec2024 16:58:38.825] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09octbcu5xovt]: Consuming argument `air`
+[04Dec2024 16:58:38.826] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09octbcu5xovt]: Consuming argument `basalt`
+[04Dec2024 16:58:38.826] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09octbcu5xovt]: Finished looking at arguments. Finalizing command.
+[04Dec2024 16:58:40.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iEnzoMC__ fell out of the world
+[04Dec2024 16:58:40.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Killed iEnzoMC__]
+[04Dec2024 16:58:46.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Summoned new Ender Dragon]
+[04Dec2024 16:58:59.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maintax fell out of the world
+[04Dec2024 16:58:59.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ricomac12 fell out of the world
+[04Dec2024 16:58:59.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesitarTuTerror fell out of the world
+[04Dec2024 16:58:59.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iEnzoMC__ fell out of the world
+[04Dec2024 16:58:59.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Killed 51 entities]
+[04Dec2024 16:59:12.559] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[04Dec2024 16:59:12.566] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[04Dec2024 16:59:12.566] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[04Dec2024 16:59:12.567] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[04Dec2024 16:59:34.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maintax has made the advancement [Suit Up]
+[04Dec2024 16:59:36.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iEnzoMC__> dame botas de hierro
+[04Dec2024 16:59:49.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iEnzoMC__> flechas me olvide
+[04Dec2024 16:59:52.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Set own game mode to Survival Mode]
+[04Dec2024 17:00:08.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ricomac12 was burnt to a crisp whilst fighting iEnzoMC__
+[04Dec2024 17:00:12.537] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[04Dec2024 17:00:12.538] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[04Dec2024 17:00:12.538] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[04Dec2024 17:00:12.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[04Dec2024 17:00:25.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ricomac12 was slain by iEnzoMC__
+[04Dec2024 17:00:45.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ricomac12 was slain by iEnzoMC__
+[04Dec2024 17:01:00.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Applied effect Regeneration to ricomac12]
+[04Dec2024 17:01:11.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Removed 1 items from player iEnzoMC__]
+[04Dec2024 17:01:12.538] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[04Dec2024 17:01:12.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[04Dec2024 17:01:12.540] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[04Dec2024 17:01:12.541] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[04Dec2024 17:01:26.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Set Maintax's game mode to Survival Mode]
+[04Dec2024 17:01:26.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Set CesitarTuTerror's game mode to Survival Mode]
+[04Dec2024 17:01:53.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maintax was slain by ricomac12
