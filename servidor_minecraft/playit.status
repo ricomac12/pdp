@@ -1,49 +1,329 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1733280437689 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1733281655110 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733280440812 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733281658188 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733280443936 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733281661290 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733280447065 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733281664384 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733280450195 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733281667482 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733280453304 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733281670559 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733280456416 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733281673636 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733280459515 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733281676741 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733280462605 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733281679853 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733280465723 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733281682964 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281686035 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281689124 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281692200 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281695286 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281698404 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281701526 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281704626 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281707829 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281710917 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281714043 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281717136 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281720235 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281723324 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281726401 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281729475 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281732579 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281735682 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281738769 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281741852 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281744932 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281748006 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281751083 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281754171 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281757254 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281760333 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281763422 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281766498 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281769652 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281772750 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281775825 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281778934 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281782053 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281785170 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281788269 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281791373 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281794457 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281797602 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281800781 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281803891 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281806991 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281810123 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281813219 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281816329 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281819429 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281822520 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281825605 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281828692 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281831810 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281834912 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281837986 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281841108 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281844187 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281847269 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281850386 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281853461 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+questions-lighter.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1733281856568 tunnel running, 1 tunnels registered
 
 
 TUNNELS

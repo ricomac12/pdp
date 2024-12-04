@@ -1,13 +1,7 @@
 [
   {
-    "uuid": "896a8ddd-c2b5-4640-b925-98d6bc42bbf8",
-    "name": "ricomac",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
-    "uuid": "4f3e5b83-e37b-3c61-ba11-40ec828a9628",
-    "name": "ricomac12",
+    "uuid": "ceb316f0-fd51-49d6-8e8f-797389634c8d",
+    "name": "Mainax",
     "level": 4,
     "bypassesPlayerLimit": false
   },
@@ -18,8 +12,8 @@
     "bypassesPlayerLimit": false
   },
   {
-    "uuid": "5f0b809b-3911-429b-a541-2aa67e8cd80c",
-    "name": "ricomac12",
+    "uuid": "b28162b6-b118-3622-9d83-c1d293180c87",
+    "name": "maintx",
     "level": 4,
     "bypassesPlayerLimit": false
   }
