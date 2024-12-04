@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "uuid": "896a8ddd-c2b5-4640-b925-98d6bc42bbf8",
+    "name": "ricomac",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "4f3e5b83-e37b-3c61-ba11-40ec828a9628",
+    "name": "ricomac12",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "0aa0c92e-0018-3250-a7bc-7d67e218f348",
+    "name": "Maintax",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "5f0b809b-3911-429b-a541-2aa67e8cd80c",
+    "name": "ricomac12",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
