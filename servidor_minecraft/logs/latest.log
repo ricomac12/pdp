@@ -616,3 +616,77 @@
 [04Dec2024 17:12:12.674] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
 [04Dec2024 17:12:19.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Applied effect Speed to iEnzoMC__]
 [04Dec2024 17:12:21.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iEnzoMC__ moved too quickly! 17.786579390884526,-0.16191881354283755,1.6226680676979583
+[04Dec2024 17:12:30.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maintax has made the advancement [Monster Hunter]
+[04Dec2024 17:13:12.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[04Dec2024 17:13:12.540] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[04Dec2024 17:13:12.541] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[04Dec2024 17:13:12.542] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[04Dec2024 17:13:31.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Summoned new Lightning Bolt]
+[04Dec2024 17:13:36.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Summoned new Lightning Bolt]
+[04Dec2024 17:13:40.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Summoned new Lightning Bolt]
+[04Dec2024 17:13:49.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Summoned new Lightning Bolt]
+[04Dec2024 17:14:05.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Summoned new Warden]
+[04Dec2024 17:14:12.542] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[04Dec2024 17:14:12.543] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[04Dec2024 17:14:12.543] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[04Dec2024 17:14:12.545] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[04Dec2024 17:14:16.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iEnzoMC__ has made the advancement [Sneak 100]
+[04Dec2024 17:15:12.540] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[04Dec2024 17:15:12.542] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[04Dec2024 17:15:12.542] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[04Dec2024 17:15:12.544] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[04Dec2024 17:15:13.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iEnzoMC__ fell out of the world
+[04Dec2024 17:15:13.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ricomac12 fell out of the world
+[04Dec2024 17:15:13.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maintax fell out of the world
+[04Dec2024 17:15:13.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesitarTuTerror didn't want to live in the same world as Warden
+[04Dec2024 17:15:13.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Killed 89 entities]
+[04Dec2024 17:16:12.538] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[04Dec2024 17:16:12.540] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[04Dec2024 17:16:12.540] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[04Dec2024 17:16:12.541] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[04Dec2024 17:16:35.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Teleported iEnzoMC__ to ricomac12]
+[04Dec2024 17:17:12.711] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[04Dec2024 17:17:12.711] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[04Dec2024 17:17:12.712] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[04Dec2024 17:17:12.713] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[04Dec2024 17:17:37.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Teleported 4 entities to ricomac12]
+[04Dec2024 17:18:12.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[04Dec2024 17:18:12.540] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[04Dec2024 17:18:12.540] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[04Dec2024 17:18:12.542] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[04Dec2024 17:18:13.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesitarTuTerror has made the advancement [Monster Hunter]
+[04Dec2024 17:18:49.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Set own game mode to Spectator Mode]
+[04Dec2024 17:19:12.538] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[04Dec2024 17:19:12.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[04Dec2024 17:19:12.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[04Dec2024 17:19:12.540] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[04Dec2024 17:19:16.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Gave 1 [Iron Helmet] to CesitarTuTerror]
+[04Dec2024 17:20:03.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Teleported CesitarTuTerror to Maintax]
+[04Dec2024 17:20:12.538] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[04Dec2024 17:20:12.538] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[04Dec2024 17:20:12.538] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[04Dec2024 17:20:12.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[04Dec2024 17:20:42.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Set own game mode to Creative Mode]
+[04Dec2024 17:21:12.537] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[04Dec2024 17:21:12.538] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[04Dec2024 17:21:12.538] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[04Dec2024 17:21:12.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[04Dec2024 17:21:24.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesitarTuTerror was slain by iEnzoMC__
+[04Dec2024 17:21:29.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iEnzoMC__> al fin
+[04Dec2024 17:21:33.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iEnzoMC__> mano
+[04Dec2024 17:21:39.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesitarTuTerror fell from a high place
+[04Dec2024 17:21:39.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iEnzoMC__> se me rompio la espada
+[04Dec2024 17:21:51.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iEnzoMC__> de le el mundo bostos
+[04Dec2024 17:22:06.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesitarTuTerror tried to swim in lava
+[04Dec2024 17:22:12.648] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[04Dec2024 17:22:12.648] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[04Dec2024 17:22:12.649] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[04Dec2024 17:22:12.649] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[04Dec2024 17:22:18.440] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CesitarTuTerror lost connection: You logged in from another location
+[04Dec2024 17:22:18.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesitarTuTerror left the game
+[04Dec2024 17:22:18.441] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Player logged out: CesitarTuTerror, id: 3585
+[04Dec2024 17:22:18.449] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CesitarTuTerror[/[0:0:0:0:0:0:0:1%0]:39420] logged in with entity id 5931 at (7.778632709169562, 0.0, -0.30000001192092896)
+[04Dec2024 17:22:18.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesitarTuTerror joined the game
+[04Dec2024 17:22:18.513] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Player logged in: CesitarTuTerror, id: 5931
+[04Dec2024 17:22:18.514] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Synced 0 buildings with player logged in
+[04Dec2024 17:22:21.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Set own game mode to Survival Mode]
