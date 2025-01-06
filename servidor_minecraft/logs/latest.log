@@ -460,3 +460,54 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [06Jan2025 20:50:15.195] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maintax moved too quickly! 0.5724607091600689,4.976604354248677,-18.845448201743984
 [06Jan2025 20:50:15.208] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ricomac12 moved too quickly! -30.514812466856295,20.114494595478863,0.32405985064600884
 [06Jan2025 20:50:17.385] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2084ms or 41 ticks behind
+[06Jan2025 20:51:09.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maintax has completed the challenge [Bad omen...]
+[06Jan2025 20:51:39.035] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maintax was kicked for floating too long!
+[06Jan2025 20:51:39.039] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maintax lost connection: Flying is not enabled on this server
+[06Jan2025 20:51:39.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maintax left the game
+[06Jan2025 20:51:39.042] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0aa0c92e-0018-3250-a7bc-7d67e218f348 was unloaded
+[06Jan2025 20:51:39.134] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[06Jan2025 20:51:59.433] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maintax[/192.168.193.82:49384] logged in with entity id 7587 at (53.866793131663, -21.1666091549183, 132.40651957720075)
+[06Jan2025 20:51:59.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maintax joined the game
+[06Jan2025 20:51:59.610] [Server thread/INFO] [Jade/]: Syncing config to Maintax (0aa0c92e-0018-3250-a7bc-7d67e218f348)
+[06Jan2025 20:51:59.742] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0aa0c92e-0018-3250-a7bc-7d67e218f348 was loaded
+[06Jan2025 20:52:04.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ricomac12 moved too quickly! -3.138365065281178,-2.612366890188934,-9.363503808567614
+[06Jan2025 20:52:57.809] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maintax was kicked for floating too long!
+[06Jan2025 20:52:57.811] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maintax lost connection: Flying is not enabled on this server
+[06Jan2025 20:52:57.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maintax left the game
+[06Jan2025 20:52:57.813] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0aa0c92e-0018-3250-a7bc-7d67e218f348 was unloaded
+[06Jan2025 20:52:57.895] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[06Jan2025 20:53:31.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Set the time to 1000]
+[06Jan2025 20:53:34.836] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maintax[/192.168.193.82:49579] logged in with entity id 7634 at (65.944606601053, -24.79612987673536, 129.06681805420047)
+[06Jan2025 20:53:34.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maintax joined the game
+[06Jan2025 20:53:34.978] [Server thread/INFO] [Jade/]: Syncing config to Maintax (0aa0c92e-0018-3250-a7bc-7d67e218f348)
+[06Jan2025 20:53:35.164] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0aa0c92e-0018-3250-a7bc-7d67e218f348 was loaded
+[06Jan2025 20:53:47.983] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maintax moved too quickly! -8.313573599678165,3.176759275064235,4.654630643283355
+[06Jan2025 20:54:13.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ricomac12 moved too quickly! 7.726452728845572,4.249187078744679,4.907023973961799
+[06Jan2025 20:54:42.770] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maintax was kicked for floating too long!
+[06Jan2025 20:54:42.819] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maintax lost connection: Flying is not enabled on this server
+[06Jan2025 20:54:42.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maintax left the game
+[06Jan2025 20:54:42.820] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0aa0c92e-0018-3250-a7bc-7d67e218f348 was unloaded
+[06Jan2025 20:55:01.981] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maintax[/192.168.193.82:49762] logged in with entity id 7683 at (82.68459314710725, -11.246800019478798, 145.81163692791648)
+[06Jan2025 20:55:02.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maintax joined the game
+[06Jan2025 20:55:02.272] [Server thread/INFO] [Jade/]: Syncing config to Maintax (0aa0c92e-0018-3250-a7bc-7d67e218f348)
+[06Jan2025 20:55:02.402] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0aa0c92e-0018-3250-a7bc-7d67e218f348 was loaded
+[06Jan2025 20:56:38.710] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maintax was kicked for floating too long!
+[06Jan2025 20:56:38.760] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maintax lost connection: Flying is not enabled on this server
+[06Jan2025 20:56:38.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maintax left the game
+[06Jan2025 20:56:38.761] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0aa0c92e-0018-3250-a7bc-7d67e218f348 was unloaded
+[06Jan2025 20:56:56.720] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maintax[/192.168.193.82:49997] logged in with entity id 7706 at (44.78443053294371, -18.833890739061786, 129.14261144089647)
+[06Jan2025 20:56:56.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maintax joined the game
+[06Jan2025 20:56:56.962] [Server thread/INFO] [Jade/]: Syncing config to Maintax (0aa0c92e-0018-3250-a7bc-7d67e218f348)
+[06Jan2025 20:56:57.022] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0aa0c92e-0018-3250-a7bc-7d67e218f348 was loaded
+[06Jan2025 20:57:15.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Gave 1 [Black Arcade Cabinet] to ricomac12]
+[06Jan2025 20:57:45.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maintax has reached the goal [Postmortal]
+[06Jan2025 21:00:32.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maintax was kicked for floating too long!
+[06Jan2025 21:00:32.410] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maintax lost connection: Flying is not enabled on this server
+[06Jan2025 21:00:32.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maintax left the game
+[06Jan2025 21:00:32.410] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0aa0c92e-0018-3250-a7bc-7d67e218f348 was unloaded
+[06Jan2025 21:00:41.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Killed 49 entities]
+[06Jan2025 21:00:50.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ricomac12 was killed
+[06Jan2025 21:00:52.574] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maintax[/192.168.193.82:50458] logged in with entity id 7816 at (78.97285000938058, -16.823240724935765, 141.15719300190844)
+[06Jan2025 21:00:52.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maintax joined the game
+[06Jan2025 21:00:52.657] [Server thread/INFO] [Jade/]: Syncing config to Maintax (0aa0c92e-0018-3250-a7bc-7d67e218f348)
+[06Jan2025 21:00:53.780] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0aa0c92e-0018-3250-a7bc-7d67e218f348 was loaded
