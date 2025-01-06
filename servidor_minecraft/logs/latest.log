@@ -409,3 +409,54 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [06Jan2025 20:39:59.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maintax has completed the challenge [Cover Me in Debris]
 [06Jan2025 20:40:09.247] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ricomac12 moved too quickly! -5.088538260512621,4.066396109253758,-7.684016691980261
 [06Jan2025 20:40:19.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Applied enchantment Sharpness V to Maintax's item]
+[06Jan2025 20:40:25.357] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ricomac12 moved too quickly! -7.014702491293306,-0.2491870787446815,-7.193584260248102
+[06Jan2025 20:41:43.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Applied enchantment Sharpness V to Maintax's item]
+[06Jan2025 20:41:59.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ricomac12 moved too quickly! 7.4942523909154275,-3.188476189299967,5.964168764092378
+[06Jan2025 20:42:39.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ricomac12 moved too quickly! -9.654462008276447,2.0797359806380262,-2.3274309313311647
+[06Jan2025 20:43:07.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set own game mode to Survival Mode]
+[06Jan2025 20:43:15.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maintax has made the advancement [The End?]
+[06Jan2025 20:43:16.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maintax moved too quickly! 66.22424281934933,48.58000001311302,-98.95994213145269
+[06Jan2025 20:43:16.727] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Scanning for legacy world dragon fight...
+[06Jan2025 20:43:16.728] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Found that the dragon has been killed in this world already.
+[06Jan2025 20:43:21.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maintax> XD
+[06Jan2025 20:43:27.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Teleported Maintax to ricomac12]
+[06Jan2025 20:43:37.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Teleported Maintax to ricomac12]
+[06Jan2025 20:43:55.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maintax moved too quickly! 9.435643825705412,0.0,-3.3463748617144944
+[06Jan2025 20:44:02.209] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maintax was kicked for floating too long!
+[06Jan2025 20:44:02.258] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maintax lost connection: Flying is not enabled on this server
+[06Jan2025 20:44:02.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maintax left the game
+[06Jan2025 20:44:02.259] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0aa0c92e-0018-3250-a7bc-7d67e218f348 was unloaded
+[06Jan2025 20:44:20.408] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ricomac12 moved too quickly! 0.3474784072097492,3.051976438503446,-9.551929024133713
+[06Jan2025 20:44:46.277] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maintax[/192.168.193.82:64869] logged in with entity id 346 at (63.7560588871195, 1.9905537325433913, 89.54053461295858)
+[06Jan2025 20:44:46.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maintax joined the game
+[06Jan2025 20:44:46.542] [Server thread/INFO] [Jade/]: Syncing config to Maintax (0aa0c92e-0018-3250-a7bc-7d67e218f348)
+[06Jan2025 20:44:46.655] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0aa0c92e-0018-3250-a7bc-7d67e218f348 was loaded
+[06Jan2025 20:45:46.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maintax was kicked for floating too long!
+[06Jan2025 20:45:46.618] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maintax lost connection: Flying is not enabled on this server
+[06Jan2025 20:45:46.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maintax left the game
+[06Jan2025 20:45:46.619] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0aa0c92e-0018-3250-a7bc-7d67e218f348 was unloaded
+[06Jan2025 20:46:01.378] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maintax[/192.168.193.82:65040] logged in with entity id 421 at (76.10515964909493, -5.750812921255319, 103.86015806069874)
+[06Jan2025 20:46:01.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maintax joined the game
+[06Jan2025 20:46:01.615] [Server thread/INFO] [Jade/]: Syncing config to Maintax (0aa0c92e-0018-3250-a7bc-7d67e218f348)
+[06Jan2025 20:46:01.831] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0aa0c92e-0018-3250-a7bc-7d67e218f348 was loaded
+[06Jan2025 20:46:09.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maintax has completed the challenge [Rude Awakening]
+[06Jan2025 20:46:25.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maintax moved too quickly! -3.4224182322371206,-0.8787031594608106,9.596221063494639
+[06Jan2025 20:46:31.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maintax moved too quickly! -0.7084878453939751,1.0,9.963394930015227
+[06Jan2025 20:46:55.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maintax moved too quickly! 9.209790869809666,-4.055462434525047,1.382929537043097
+[06Jan2025 20:47:03.261] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maintax was kicked for floating too long!
+[06Jan2025 20:47:03.308] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maintax lost connection: Flying is not enabled on this server
+[06Jan2025 20:47:03.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maintax left the game
+[06Jan2025 20:47:03.309] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0aa0c92e-0018-3250-a7bc-7d67e218f348 was unloaded
+[06Jan2025 20:47:39.170] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maintax[/192.168.193.82:65241] logged in with entity id 926 at (85.2329141283253, -6.0865325404231045, 113.77429346637035)
+[06Jan2025 20:47:39.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maintax joined the game
+[06Jan2025 20:47:39.301] [Server thread/INFO] [Jade/]: Syncing config to Maintax (0aa0c92e-0018-3250-a7bc-7d67e218f348)
+[06Jan2025 20:47:39.683] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0aa0c92e-0018-3250-a7bc-7d67e218f348 was loaded
+[06Jan2025 20:48:15.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set own game mode to Creative Mode]
+[06Jan2025 20:48:29.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set own game mode to Survival Mode]
+[06Jan2025 20:49:35.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ricomac12 has reached the goal [I Am Become Death]
+[06Jan2025 20:49:52.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set own game mode to Creative Mode]
+[06Jan2025 20:49:57.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set own game mode to Survival Mode]
+[06Jan2025 20:50:13.344] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ricomac12 moved too quickly! -8.182481611550351,6.371599606497942,-0.09890540260191472
+[06Jan2025 20:50:15.195] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maintax moved too quickly! 0.5724607091600689,4.976604354248677,-18.845448201743984
+[06Jan2025 20:50:15.208] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ricomac12 moved too quickly! -30.514812466856295,20.114494595478863,0.32405985064600884
+[06Jan2025 20:50:17.385] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2084ms or 41 ticks behind
