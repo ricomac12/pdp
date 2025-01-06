@@ -1,692 +1,360 @@
-[04Dec2024 16:11:05.470] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
-[04Dec2024 16:11:05.477] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[04Dec2024 16:11:05.751] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/pdp/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
-[04Dec2024 16:11:06.130] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/pdp/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar is missing mods.toml file
-[04Dec2024 16:11:06.133] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/pdp/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar is missing mods.toml file
-[04Dec2024 16:11:06.135] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/pdp/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar is missing mods.toml file
-[04Dec2024 16:11:06.136] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/pdp/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar is missing mods.toml file
-[04Dec2024 16:11:06.274] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[04Dec2024 16:11:08.782] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[04Dec2024 16:11:18.121] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
-[04Dec2024 16:11:22.460] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
-[04Dec2024 16:11:22.467] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.4.2 Initialized
-[04Dec2024 16:11:24.185] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.npc.Villager from class com.solegendary.reignofnether.unit.units.villagers.VillagerUnit
-[04Dec2024 16:11:24.187] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.npc.Villager from class com.solegendary.reignofnether.unit.units.villagers.MilitiaUnit
-[04Dec2024 16:11:24.191] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.solegendary.reignofnether.unit.units.monsters.ZombieUnit from class com.solegendary.reignofnether.unit.units.monsters.EndermanUnit
-[04Dec2024 16:11:24.247] [modloading-worker-0/INFO] [com.solegendary.reignofnether.ReignOfNether/RESETPACKET]: Registering forge reset packet.
-[04Dec2024 16:11:24.249] [modloading-worker-0/INFO] [com.solegendary.reignofnether.ReignOfNether/RESETPACKET]: Registered forge reset packet successfully.
-[04Dec2024 16:11:24.806] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[04Dec2024 16:11:25.756] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.4.2 Target: 43.4.6
-[04Dec2024 16:11:25.803] [modloading-worker-0/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@66255135]
-[04Dec2024 16:11:25.820] [modloading-worker-0/INFO] [com.sk89q.worldedit.forge.ForgeWorldEdit/]: WorldEdit for Forge (version 7.2.12+6240-87f4ae1) is loaded
-[04Dec2024 16:11:28.431] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[04Dec2024 16:11:29.899] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/pdp/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23103!/assets/.mcassetsroot' uses unexpected schema
-[04Dec2024 16:11:29.900] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/pdp/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23103!/data/.mcassetsroot' uses unexpected schema
-[04Dec2024 16:11:36.463] [main/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
-[04Dec2024 16:11:38.057] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
-[04Dec2024 16:11:38.781] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1179 advancements
-[04Dec2024 16:11:40.120] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
-[04Dec2024 16:11:40.121] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[04Dec2024 16:11:40.121] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SPECTATOR
-[04Dec2024 16:11:40.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[04Dec2024 16:11:40.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[04Dec2024 16:11:40.474] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[04Dec2024 16:11:40.602] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04Dec2024 16:11:40.603] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[04Dec2024 16:11:40.603] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04Dec2024 16:11:40.604] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[04Dec2024 16:11:40.686] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[04Dec2024 16:11:58.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[04Dec2024 16:12:04.631] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Dec2024 16:12:04.637] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Dec2024 16:12:04.640] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Dec2024 16:12:04.642] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Dec2024 16:12:04.643] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Dec2024 16:12:04.646] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Dec2024 16:12:04.647] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Dec2024 16:12:04.655] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Dec2024 16:12:04.656] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Dec2024 16:12:04.658] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Dec2024 16:12:04.659] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Dec2024 16:12:04.670] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Dec2024 16:12:04.782] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Dec2024 16:12:05.283] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Dec2024 16:12:05.782] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Dec2024 16:12:06.284] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Dec2024 16:12:06.784] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
-[04Dec2024 16:12:07.285] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
-[04Dec2024 16:12:07.627] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8846 ms
-[04Dec2024 16:12:07.627] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (27.006s)! For help, type "help"
-[04Dec2024 16:12:07.640] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[04Dec2024 16:12:07.656] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.load
-[04Dec2024 16:12:07.657] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Loaded 0 units in serverevents
-[04Dec2024 16:12:07.659] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: TargetResourcesSaveData.load
-[04Dec2024 16:12:07.661] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Loaded 0 gatherTargets in serverevents
-[04Dec2024 16:12:07.668] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.load
-[04Dec2024 16:12:07.672] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: NetherZoneSaveData.load
-[04Dec2024 16:12:07.678] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.load
-[04Dec2024 16:12:07.679] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: saved 0 resources in serverevents
-[04Dec2024 16:12:07.682] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: loaded 0 researchItems in serverevents
-[04Dec2024 16:12:07.683] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: loaded survival data: isEnabled: false
-[04Dec2024 16:12:07.685] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: loaded survival data: nextWave: 1
-[04Dec2024 16:12:07.687] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: loaded survival data: difficulty: null
-[04Dec2024 16:13:10.536] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 16:13:10.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 16:13:10.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 16:13:10.542] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 16:14:10.535] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 16:14:10.537] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 16:14:10.537] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 16:14:10.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 16:14:38.218] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5fa1c658
-[04Dec2024 16:14:38.234] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maintax[/[0:0:0:0:0:0:0:1%0]:50040] logged in with entity id 47 at (-3.5, -4.0, -4.5)
-[04Dec2024 16:14:38.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maintax joined the game
-[04Dec2024 16:14:38.559] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Player logged in: Maintax, id: 47
-[04Dec2024 16:14:38.577] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Synced 0 buildings with player logged in
-[04Dec2024 16:14:49.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maintax> rt
-[04Dec2024 16:15:08.839] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [136 absolute-0 below top]
-[04Dec2024 16:15:10.540] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 16:15:10.542] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 16:15:10.543] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 16:15:10.549] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 16:15:25.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Mainax a server operator
-[04Dec2024 16:15:32.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made maintx a server operator
-[04Dec2024 16:15:42.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Maintax a server operator
-[04Dec2024 16:15:45.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set own game mode to Creative Mode]
-[04Dec2024 16:16:10.548] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 16:16:10.550] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 16:16:10.551] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 16:16:10.552] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 16:16:35.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Shrinking the world border to 11.0 blocks wide over 11 seconds]
-[04Dec2024 16:17:10.857] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 16:17:10.859] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 16:17:10.860] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 16:17:10.862] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 16:18:07.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set the world border to 100.0 blocks wide]
-[04Dec2024 16:18:10.538] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 16:18:10.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 16:18:10.541] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 16:18:10.544] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 16:18:18.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set the world border to 1000.0 blocks wide]
-[04Dec2024 16:18:26.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set the world border to 600.0 blocks wide]
-[04Dec2024 16:18:30.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set the world border to 500.0 blocks wide]
-[04Dec2024 16:18:33.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set the world border to 400.0 blocks wide]
-[04Dec2024 16:18:35.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set the world border to 300.0 blocks wide]
-[04Dec2024 16:18:39.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set the world border to 200.0 blocks wide]
-[04Dec2024 16:18:47.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set the world border to 201.0 blocks wide]
-[04Dec2024 16:18:53.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set the world border to 220.0 blocks wide]
-[04Dec2024 16:19:02.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set the world border to 240.0 blocks wide]
-[04Dec2024 16:19:09.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set the world border to 241.0 blocks wide]
-[04Dec2024 16:19:09.490] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7baee39e
-[04Dec2024 16:19:09.510] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: iEnzoMC__[/[0:0:0:0:0:0:0:1%0]:36550] logged in with entity id 311 at (0.5, 4.0, 9.5)
-[04Dec2024 16:19:09.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iEnzoMC__ joined the game
-[04Dec2024 16:19:09.755] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Player logged in: iEnzoMC__, id: 311
-[04Dec2024 16:19:09.756] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Synced 0 buildings with player logged in
-[04Dec2024 16:19:10.552] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 16:19:10.554] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 16:19:10.555] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 16:19:10.560] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 16:19:11.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set the world border to 242.0 blocks wide]
-[04Dec2024 16:19:14.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set the world border to 245.0 blocks wide]
-[04Dec2024 16:19:20.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set the world border to 248.0 blocks wide]
-[04Dec2024 16:19:23.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set the world border to 252.0 blocks wide]
-[04Dec2024 16:19:27.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set the world border to 255.0 blocks wide]
-[04Dec2024 16:19:31.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set the world border to 256.0 blocks wide]
-[04Dec2024 16:19:48.318] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maintax moved too quickly! 7.551773084205706,2.0101707673093046,7.84328145938699
-[04Dec2024 16:20:06.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iEnzoMC__> jhon te voy a ser un crAK
-[04Dec2024 16:20:10.537] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 16:20:10.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 16:20:10.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 16:20:10.541] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 16:20:21.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maintax> Craft craft
-[04Dec2024 16:20:24.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maintax> Craft...
-[04Dec2024 16:20:29.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set own game mode to Spectator Mode]
-[04Dec2024 16:20:35.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set own game mode to Creative Mode]
-[04Dec2024 16:20:42.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set the time to 1000]
-[04Dec2024 16:20:59.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set the world border to 1.0 blocks wide]
-[04Dec2024 16:21:04.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set the world border to 256.0 blocks wide]
-[04Dec2024 16:21:10.543] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 16:21:10.547] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 16:21:10.548] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 16:21:10.550] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 16:22:10.766] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 16:22:10.767] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 16:22:10.768] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 16:22:10.770] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 16:22:30.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maintax moved too quickly! -6.364441240020376,-7.787236042950337,-1.2949078447505684
-[04Dec2024 16:22:43.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set the world border to 1.0 blocks wide]
-[04Dec2024 16:23:10.545] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 16:23:10.549] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 16:23:10.550] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 16:23:10.555] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 16:23:14.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set the world border to 500.0 blocks wide]
-[04Dec2024 16:23:20.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set the world border to 700.0 blocks wide]
-[04Dec2024 16:23:34.898] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4c627516
-[04Dec2024 16:23:34.911] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ricomac12[/[0:0:0:0:0:0:0:1%0]:55280] logged in with entity id 550 at (9.078883670788791, 5.0, 10.99561563132458)
-[04Dec2024 16:23:34.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ricomac12 joined the game
-[04Dec2024 16:23:35.051] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Player logged in: ricomac12, id: 550
-[04Dec2024 16:23:35.053] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Synced 0 buildings with player logged in
-[04Dec2024 16:24:10.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 16:24:10.540] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 16:24:10.541] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 16:24:10.542] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 16:24:54.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maintax moved too quickly! 6.663848031230076,0.0,-8.473232818133027
-[04Dec2024 16:25:10.552] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 16:25:10.556] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 16:25:10.559] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 16:25:10.563] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 16:26:10.538] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 16:26:10.540] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 16:26:10.540] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 16:26:10.540] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 16:27:10.672] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 16:27:10.673] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 16:27:10.673] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 16:27:10.675] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 16:28:10.562] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 16:28:10.579] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 16:28:10.582] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 16:28:10.585] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 16:28:25.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made ricomac12 a server operator
-[04Dec2024 16:28:33.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Set own game mode to Creative Mode]
-[04Dec2024 16:28:37.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ricomac12 moved too quickly! -9.441571776677868,0.0,5.08475993251421
-[04Dec2024 16:28:40.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ricomac12 moved too quickly! -8.802919399197904,0.0,5.676980113937148
-[04Dec2024 16:29:01.161] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ricomac12 moved too quickly! -2.045237307818695,-0.5568109594912514,-10.665239464749746
-[04Dec2024 16:29:03.486] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maintax moved too quickly! 0.00692257381467698,-5.993468711139023,-8.916878246635264
-[04Dec2024 16:29:09.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ricomac12 moved too quickly! 9.392332657516295,2.1924845271855027,5.41514127914796
-[04Dec2024 16:29:10.543] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 16:29:10.543] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 16:29:10.543] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 16:29:10.544] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 16:29:39.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Gamerule maxPopulation is now set to: 150]
-[04Dec2024 16:30:10.550] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 16:30:10.551] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 16:30:10.551] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 16:30:10.552] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 16:30:41.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Set the time to 1000]
-[04Dec2024 16:30:54.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Set iEnzoMC__'s game mode to Survival Mode]
-[04Dec2024 16:31:06.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Teleported iEnzoMC__ to ricomac12]
-[04Dec2024 16:31:10.541] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 16:31:10.542] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 16:31:10.542] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 16:31:10.543] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 16:31:35.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maintax moved too quickly! 7.277056664595335,-4.499995746251031,5.293962959291093
-[04Dec2024 16:31:35.110] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3057f71c
-[04Dec2024 16:31:35.126] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CesitarTuTerror[/[0:0:0:0:0:0:0:1%0]:34910] logged in with entity id 914 at (-7.5, -2.0, 7.5)
-[04Dec2024 16:31:35.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesitarTuTerror joined the game
-[04Dec2024 16:31:35.284] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Player logged in: CesitarTuTerror, id: 914
-[04Dec2024 16:31:35.285] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Synced 0 buildings with player logged in
-[04Dec2024 16:31:35.593] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[04Dec2024 16:31:35.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iEnzoMC__ has completed the challenge [Cover Me in Debris]
-[04Dec2024 16:32:12.748] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 16:32:12.750] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 16:32:12.751] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 16:32:12.753] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 16:32:37.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set own game mode to Spectator Mode]
-[04Dec2024 16:32:46.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set own game mode to Creative Mode]
-[04Dec2024 16:32:55.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iEnzoMC__ has made the advancement [Monster Hunter]
-[04Dec2024 16:33:12.543] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 16:33:12.544] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 16:33:12.545] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 16:33:12.547] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 16:33:14.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iEnzoMC__> manden al otro
-[04Dec2024 16:33:47.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Set CesitarTuTerror's game mode to Creative Mode]
-[04Dec2024 16:33:49.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iEnzoMC__ hit the ground too hard whilst trying to escape Ravager
-[04Dec2024 16:34:05.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Set spawn point to 43, 1, 123 [0.0] in minecraft:overworld for Maintax]
-[04Dec2024 16:34:12.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Set spawn point to 43, 1, 123 [0.0] in minecraft:overworld for iEnzoMC__]
-[04Dec2024 16:34:12.543] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 16:34:12.544] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 16:34:12.544] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 16:34:12.546] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 16:34:21.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maintax fell out of the world
-[04Dec2024 16:34:21.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ricomac12 fell out of the world
-[04Dec2024 16:34:21.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesitarTuTerror fell out of the world
-[04Dec2024 16:34:21.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iEnzoMC__ fell out of the world
-[04Dec2024 16:34:21.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Killed 89 entities]
-[04Dec2024 16:34:33.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ricomac12 moved too quickly! 9.722954562754474,0.8604000341892224,3.564220998765556
-[04Dec2024 16:35:12.551] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 16:35:12.556] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 16:35:12.556] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 16:35:12.558] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 16:35:41.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Set the time to 13000]
-[04Dec2024 16:36:12.545] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 16:36:12.547] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 16:36:12.548] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 16:36:12.549] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 16:36:16.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set the center of the world border to 64.48, 64.17]
-[04Dec2024 16:36:32.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iEnzoMC__> peran
-[04Dec2024 16:36:48.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesitarTuTerror has completed the challenge [Cover Me in Debris]
-[04Dec2024 16:37:02.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iEnzoMC__> ya
-[04Dec2024 16:37:09.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iEnzoMC__> dame armadura
-[04Dec2024 16:37:12.705] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 16:37:12.706] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 16:37:12.706] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 16:37:12.707] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 16:37:17.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Set iEnzoMC__'s game mode to Creative Mode]
-[04Dec2024 16:37:53.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set the world border to 255.0 blocks wide]
-[04Dec2024 16:38:00.854] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maintax moved too quickly! -7.436640623993533,0.0,-6.907898241921487
-[04Dec2024 16:38:07.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iEnzoMC__> ya
-[04Dec2024 16:38:12.551] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 16:38:12.553] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 16:38:12.553] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 16:38:12.555] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 16:38:17.747] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ricomac12 moved too quickly! 7.776234450490055,0.0,6.716820648380647
-[04Dec2024 16:38:29.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set the world border to 300.0 blocks wide]
-[04Dec2024 16:38:44.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iEnzoMC__> pon me survival
-[04Dec2024 16:38:48.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set the world border to 350.0 blocks wide]
-[04Dec2024 16:38:55.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Set iEnzoMC__'s game mode to Survival Mode]
-[04Dec2024 16:39:08.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set the world border to 360.0 blocks wide]
-[04Dec2024 16:39:12.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Set CesitarTuTerror's game mode to Survival Mode]
-[04Dec2024 16:39:12.541] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 16:39:12.542] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 16:39:12.542] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 16:39:12.543] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 16:39:27.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set the world border to 370.0 blocks wide]
-[04Dec2024 16:39:37.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set the world border to 376.0 blocks wide]
-[04Dec2024 16:39:47.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set the world border to 380.0 blocks wide]
-[04Dec2024 16:39:54.928] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iEnzoMC__ moved wrongly!
-[04Dec2024 16:39:56.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set the world border to 381.0 blocks wide]
-[04Dec2024 16:40:12.542] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 16:40:12.543] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 16:40:12.544] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 16:40:12.546] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 16:40:29.542] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ricomac12 moved too quickly! 10.043609921968226,0.0,4.071787647136546
-[04Dec2024 16:40:33.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ricomac12 moved too quickly! 7.687942463548886,2.44694793723297,5.916942565262239
-[04Dec2024 16:40:33.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set the world border to 382.0 blocks wide]
-[04Dec2024 16:40:51.637] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iEnzoMC__ moved wrongly!
-[04Dec2024 16:40:55.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Applied effect Strength to CesitarTuTerror]
-[04Dec2024 16:40:57.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iEnzoMC__ was slain by CesitarTuTerror
-[04Dec2024 16:41:04.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iEnzoMC__> oooe
-[04Dec2024 16:41:12.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 16:41:12.540] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 16:41:12.540] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 16:41:12.542] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 16:41:15.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iEnzoMC__> le han puesto fuerza 1000
-[04Dec2024 16:41:29.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set the world border to 382.5 blocks wide]
-[04Dec2024 16:41:38.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set the world border to 382.0 blocks wide]
-[04Dec2024 16:41:40.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Set iEnzoMC__'s game mode to Creative Mode]
-[04Dec2024 16:41:42.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set the world border to 383.0 blocks wide]
-[04Dec2024 16:41:45.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set the world border to 384.0 blocks wide]
-[04Dec2024 16:42:00.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set the world border to 38.0 blocks wide]
-[04Dec2024 16:42:03.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set the world border to 383.0 blocks wide]
-[04Dec2024 16:42:07.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iEnzoMC__> no me ha roto
-[04Dec2024 16:42:08.149] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ricomac12 moved too quickly! 1.3340335473967428,3.3750001339909055,-9.49734080390664
-[04Dec2024 16:42:12.693] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 16:42:12.693] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 16:42:12.694] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 16:42:12.694] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 16:42:13.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set the world border to 386.0 blocks wide]
-[04Dec2024 16:42:14.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ricomac12 moved too quickly! 3.860693223032179,0.0,10.158447783221666
-[04Dec2024 16:42:18.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set the world border to 383.0 blocks wide]
-[04Dec2024 16:42:27.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ricomac12 has made the advancement [Stone Age]
-[04Dec2024 16:42:31.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iEnzoMC__> ya
-[04Dec2024 16:42:36.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maintax> 383
-[04Dec2024 16:42:40.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set the world border to 386.0 blocks wide]
-[04Dec2024 16:42:51.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Applied enchantment Sharpness V to CesitarTuTerror's item]
-[04Dec2024 16:43:09.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Set iEnzoMC__'s game mode to Survival Mode]
-[04Dec2024 16:43:12.540] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 16:43:12.541] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 16:43:12.541] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 16:43:12.543] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 16:43:28.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Applied enchantment Sharpness V to iEnzoMC__'s item]
-[04Dec2024 16:43:59.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iEnzoMC__ moved wrongly!
-[04Dec2024 16:44:12.538] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 16:44:12.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 16:44:12.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 16:44:12.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 16:44:28.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Applied effect Slowness to CesitarTuTerror]
-[04Dec2024 16:44:48.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Applied effect Regeneration to CesitarTuTerror]
-[04Dec2024 16:45:12.542] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 16:45:12.545] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 16:45:12.545] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 16:45:12.548] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 16:45:16.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Applied effect Speed to CesitarTuTerror]
-[04Dec2024 16:45:27.513] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ricomac12 moved too quickly! 3.0618948893392712,-4.276810995284698,-8.898108170030952
-[04Dec2024 16:45:30.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesitarTuTerror has made the advancement [Take Aim]
-[04Dec2024 16:45:37.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Removed every effect from CesitarTuTerror]
-[04Dec2024 16:46:12.538] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 16:46:12.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 16:46:12.540] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 16:46:12.541] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 16:46:13.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Applied effect Slowness to CesitarTuTerror]
-[04Dec2024 16:46:51.524] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: RTSPlayerSaveData.save
-[04Dec2024 16:46:51.528] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: RTSPlayerSaveData.save: Maintax|47|VILLAGERS
-[04Dec2024 16:47:09.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesitarTuTerror has reached the goal [Postmortal]
-[04Dec2024 16:47:12.671] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 16:47:12.675] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save: Maintax|entity.reignofnether.villager_unit|06cec787-d8d8-49e6-9b35-1004d0ea329e
-[04Dec2024 16:47:12.675] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save: Maintax|entity.reignofnether.villager_unit|4e76a31b-07f7-46fa-8267-bc2149a4d79e
-[04Dec2024 16:47:12.675] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save: Maintax|entity.reignofnether.villager_unit|834183d5-d92d-47de-94c1-b24514b4b08b
-[04Dec2024 16:47:12.676] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 3 units
-[04Dec2024 16:47:12.677] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: saved buildings/nether in serverevents: BlockPos{x=121, y=-27, z=-121}
-[04Dec2024 16:47:12.678] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 16:47:12.679] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save: Maintax|Town Centre
-[04Dec2024 16:47:12.683] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: saved resources in serverevents: Maintax|100|100|0
-[04Dec2024 16:47:12.683] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 16:47:12.684] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save: Maintax|100|100|0
-[04Dec2024 16:47:15.021] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ricomac12 moved too quickly! -10.012986795284752,0.0,-1.7435468087439432
-[04Dec2024 16:47:19.376] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ricomac12 moved too quickly! -8.79121028216522,-5.437658903505437,-0.5303743035909605
-[04Dec2024 16:47:57.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesitarTuTerror was slain by iEnzoMC__
-[04Dec2024 16:48:12.542] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 16:48:12.542] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save: Maintax|entity.reignofnether.villager_unit|06cec787-d8d8-49e6-9b35-1004d0ea329e
-[04Dec2024 16:48:12.543] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save: Maintax|entity.reignofnether.villager_unit|4e76a31b-07f7-46fa-8267-bc2149a4d79e
-[04Dec2024 16:48:12.543] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save: Maintax|entity.reignofnether.villager_unit|834183d5-d92d-47de-94c1-b24514b4b08b
-[04Dec2024 16:48:12.544] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 3 units
-[04Dec2024 16:48:12.548] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: saved buildings/nether in serverevents: BlockPos{x=121, y=-27, z=-121}
-[04Dec2024 16:48:12.548] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: saved buildings/nether in serverevents: BlockPos{x=112, y=-28, z=-111}
-[04Dec2024 16:48:12.549] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 16:48:12.549] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save: Maintax|Town Centre
-[04Dec2024 16:48:12.549] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save: |Oak Bridge
-[04Dec2024 16:48:12.550] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: saved resources in serverevents: Maintax|100|100|0
-[04Dec2024 16:48:12.551] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 16:48:12.551] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save: Maintax|100|100|0
-[04Dec2024 16:48:12.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iEnzoMC__> mano solo tenia 3 mansanas
-[04Dec2024 16:48:20.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maintax> mansanas
-[04Dec2024 16:48:42.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Removed 289 items from 4 players]
-[04Dec2024 16:48:48.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Set iEnzoMC__'s game mode to Creative Mode]
-[04Dec2024 16:48:48.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Set CesitarTuTerror's game mode to Creative Mode]
-[04Dec2024 16:48:55.316] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ricomac12 moved too quickly! 5.901182501880136,3.374999184257965,7.709948087828874
-[04Dec2024 16:48:57.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iEnzoMC__> ya
-[04Dec2024 16:48:58.682] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ricomac12 moved too quickly! 8.378824166278818,3.3749058811695516,4.893817668709122
-[04Dec2024 16:49:08.971] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResearchSaveData.save
-[04Dec2024 16:49:08.973] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: saved 0 researchItems in serverevents
-[04Dec2024 16:49:08.975] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: RTSPlayerSaveData.save
-[04Dec2024 16:49:12.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 16:49:12.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 16:49:12.540] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 16:49:12.542] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 16:49:27.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ricomac12 moved too quickly! 3.458507155663362,4.115103915317389,-8.597579389369756
-[04Dec2024 16:49:35.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Teleported ricomac12 to CesitarTuTerror]
-[04Dec2024 16:49:43.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iEnzoMC__> solo vale armadura de hierro y espada de hierro mas el arco de poder 5 con 3 mansanas
-[04Dec2024 16:50:12.541] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 16:50:12.542] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 16:50:12.543] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 16:50:12.544] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 16:50:25.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Applied enchantment Power V to ricomac12's item]
-[04Dec2024 16:50:28.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ricomac12 has made the advancement [Suit Up]
-[04Dec2024 16:50:28.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iEnzoMC__ has made the advancement [Suit Up]
-[04Dec2024 16:50:54.706] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ricomac12 moved too quickly! 7.313471413314041,3.7500000938697333,7.380624964488952
-[04Dec2024 16:50:58.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Teleported ricomac12 to CesitarTuTerror]
-[04Dec2024 16:51:12.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 16:51:12.540] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 16:51:12.541] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 16:51:12.542] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 16:51:17.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesitarTuTerror has made the advancement [Suit Up]
-[04Dec2024 16:51:33.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iEnzoMC__> pon me survival
-[04Dec2024 16:51:39.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Applied enchantment Power V to ricomac12's item]
-[04Dec2024 16:51:45.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesitarTuTerror has made the advancement [Best Friends Forever]
-[04Dec2024 16:52:06.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Applied enchantment Unbreaking III to ricomac12's item]
-[04Dec2024 16:52:12.637] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 16:52:12.638] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 16:52:12.638] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 16:52:12.639] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 16:52:31.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ricomac12 moved too quickly! 10.552188864795298,0.0,-0.2710338791813811
-[04Dec2024 16:52:33.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesitarTuTerror has reached the goal [Sky's the Limit]
-[04Dec2024 16:52:39.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Teleported CesitarTuTerror to ricomac12]
-[04Dec2024 16:52:53.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iEnzoMC__> pon me survival
-[04Dec2024 16:53:12.538] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 16:53:12.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 16:53:12.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 16:53:12.541] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 16:53:46.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Set Maintax's game mode to Survival Mode]
-[04Dec2024 16:53:46.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Set own game mode to Survival Mode]
-[04Dec2024 16:53:46.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Set iEnzoMC__'s game mode to Survival Mode]
-[04Dec2024 16:53:46.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Set CesitarTuTerror's game mode to Survival Mode]
-[04Dec2024 16:53:47.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iEnzoMC__ has made the advancement [Take Aim]
-[04Dec2024 16:53:48.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesitarTuTerror was shot by iEnzoMC__
-[04Dec2024 16:53:51.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set own game mode to Creative Mode]
-[04Dec2024 16:53:58.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ricomac12 has reached the goal [Postmortal]
-[04Dec2024 16:54:12.537] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 16:54:12.538] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 16:54:12.538] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 16:54:12.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 16:54:18.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iEnzoMC__> mano dijimos solo hierro
-[04Dec2024 16:54:28.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iEnzoMC__> el pata tenia como 10 totem}
-[04Dec2024 16:54:45.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Set own game mode to Creative Mode]
-[04Dec2024 16:54:45.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Set iEnzoMC__'s game mode to Creative Mode]
-[04Dec2024 16:54:45.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Set CesitarTuTerror's game mode to Creative Mode]
-[04Dec2024 16:54:55.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Removed 153 items from 4 players]
-[04Dec2024 16:55:12.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 16:55:12.540] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 16:55:12.540] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 16:55:12.541] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 16:55:53.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Applied effect Glowing to 4 targets]
-[04Dec2024 16:56:12.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 16:56:12.540] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 16:56:12.540] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 16:56:12.541] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 16:56:24.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iEnzoMC__ has reached the goal [Sky's the Limit]
-[04Dec2024 16:56:37.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maintax has made the advancement [Hot Stuff]
-[04Dec2024 16:56:53.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Gamerule keepInventory is now set to: true]
-[04Dec2024 16:57:12.670] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 16:57:12.671] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 16:57:12.671] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 16:57:12.672] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 16:57:42.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maintax has made the advancement [Stone Age]
-[04Dec2024 16:57:44.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Set spawn point to 141, -6, 92 [0.0] in minecraft:overworld for iEnzoMC__]
-[04Dec2024 16:57:57.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iEnzoMC__> yayyaya
-[04Dec2024 16:57:59.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iEnzoMC__> dale
-[04Dec2024 16:58:04.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Set iEnzoMC__'s game mode to Survival Mode]
-[04Dec2024 16:58:12.538] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 16:58:12.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 16:58:12.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 16:58:12.540] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 16:58:34.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iEnzoMC__> dale cohete
-[04Dec2024 16:58:37.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Gamerule mobGriefing is now set to: false]
-[04Dec2024 16:58:40.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iEnzoMC__ fell out of the world
-[04Dec2024 16:58:40.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Killed iEnzoMC__]
-[04Dec2024 16:58:46.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Summoned new Ender Dragon]
-[04Dec2024 16:58:59.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maintax fell out of the world
-[04Dec2024 16:58:59.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ricomac12 fell out of the world
-[04Dec2024 16:58:59.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesitarTuTerror fell out of the world
-[04Dec2024 16:58:59.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iEnzoMC__ fell out of the world
-[04Dec2024 16:58:59.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Killed 51 entities]
-[04Dec2024 16:59:12.559] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 16:59:12.566] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 16:59:12.566] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 16:59:12.567] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 16:59:34.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maintax has made the advancement [Suit Up]
-[04Dec2024 16:59:36.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iEnzoMC__> dame botas de hierro
-[04Dec2024 16:59:49.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iEnzoMC__> flechas me olvide
-[04Dec2024 16:59:52.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Set own game mode to Survival Mode]
-[04Dec2024 17:00:08.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ricomac12 was burnt to a crisp whilst fighting iEnzoMC__
-[04Dec2024 17:00:12.537] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 17:00:12.538] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 17:00:12.538] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 17:00:12.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 17:00:25.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ricomac12 was slain by iEnzoMC__
-[04Dec2024 17:00:45.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ricomac12 was slain by iEnzoMC__
-[04Dec2024 17:01:00.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Applied effect Regeneration to ricomac12]
-[04Dec2024 17:01:11.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Removed 1 items from player iEnzoMC__]
-[04Dec2024 17:01:12.538] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 17:01:12.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 17:01:12.540] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 17:01:12.541] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 17:01:26.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Set Maintax's game mode to Survival Mode]
-[04Dec2024 17:01:26.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Set CesitarTuTerror's game mode to Survival Mode]
-[04Dec2024 17:01:53.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maintax was slain by ricomac12
-[04Dec2024 17:02:12.696] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 17:02:12.697] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 17:02:12.698] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 17:02:12.699] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 17:02:27.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Set own game mode to Creative Mode]
-[04Dec2024 17:02:36.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Set own game mode to Creative Mode]
-[04Dec2024 17:02:57.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ricomac12 has made the advancement [Monster Hunter]
-[04Dec2024 17:03:12.541] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 17:03:12.542] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 17:03:12.543] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 17:03:12.544] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 17:03:33.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Applied effect Glowing to 4 targets]
-[04Dec2024 17:04:12.538] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 17:04:12.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 17:04:12.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 17:04:12.540] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 17:04:14.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Applied effect Speed to iEnzoMC__]
-[04Dec2024 17:04:28.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iEnzoMC__ moved wrongly!
-[04Dec2024 17:04:29.408] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iEnzoMC__ moved wrongly!
-[04Dec2024 17:04:32.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Removed every effect from iEnzoMC__]
-[04Dec2024 17:04:52.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Applied effect Levitation to CesitarTuTerror]
-[04Dec2024 17:04:53.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesitarTuTerror has completed the challenge [Great View From Up Here]
-[04Dec2024 17:04:57.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Applied effect Speed to CesitarTuTerror]
-[04Dec2024 17:05:06.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CesitarTuTerror was kicked for floating too long!
-[04Dec2024 17:05:06.138] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CesitarTuTerror lost connection: Flying is not enabled on this server
-[04Dec2024 17:05:06.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesitarTuTerror left the game
-[04Dec2024 17:05:06.142] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Player logged out: CesitarTuTerror, id: 914
-[04Dec2024 17:05:06.187] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[04Dec2024 17:05:12.541] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 17:05:12.542] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 17:05:12.543] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 17:05:12.547] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 17:05:12.946] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@49bf2570
-[04Dec2024 17:05:12.955] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CesitarTuTerror[/[0:0:0:0:0:0:0:1%0]:41022] logged in with entity id 3580 at (76.31163496841026, 943.961175695599, 35.54900930417769)
-[04Dec2024 17:05:12.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesitarTuTerror joined the game
-[04Dec2024 17:05:13.227] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Player logged in: CesitarTuTerror, id: 3580
-[04Dec2024 17:05:13.229] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Synced 0 buildings with player logged in
-[04Dec2024 17:05:17.687] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CesitarTuTerror was kicked for floating too long!
-[04Dec2024 17:05:17.737] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CesitarTuTerror lost connection: Flying is not enabled on this server
-[04Dec2024 17:05:17.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesitarTuTerror left the game
-[04Dec2024 17:05:17.738] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Player logged out: CesitarTuTerror, id: 3580
-[04Dec2024 17:05:20.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iEnzoMC__> esta arriba
-[04Dec2024 17:05:23.199] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@530138c
-[04Dec2024 17:05:23.208] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CesitarTuTerror[/[0:0:0:0:0:0:0:1%0]:34608] logged in with entity id 3585 at (76.31163496841026, 758.6189803595133, 35.54900930417769)
-[04Dec2024 17:05:23.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesitarTuTerror joined the game
-[04Dec2024 17:05:23.386] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Player logged in: CesitarTuTerror, id: 3585
-[04Dec2024 17:05:23.395] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Synced 0 buildings with player logged in
-[04Dec2024 17:05:24.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Teleported 4 entities to iEnzoMC__]
-[04Dec2024 17:05:25.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesitarTuTerror fell from a high place
-[04Dec2024 17:05:43.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Teleported iEnzoMC__ to CesitarTuTerror]
-[04Dec2024 17:05:52.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Applied effect Speed to CesitarTuTerror]
-[04Dec2024 17:06:12.537] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 17:06:12.538] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 17:06:12.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 17:06:12.541] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 17:06:19.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Applied effect Speed to CesitarTuTerror]
-[04Dec2024 17:06:29.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Applied effect Speed to CesitarTuTerror]
-[04Dec2024 17:06:56.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Applied effect Levitation to iEnzoMC__]
-[04Dec2024 17:06:58.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Applied effect Speed to iEnzoMC__]
-[04Dec2024 17:07:09.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Removed every effect from iEnzoMC__]
-[04Dec2024 17:07:12.705] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 17:07:12.706] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 17:07:12.706] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 17:07:12.707] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 17:07:19.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Applied effect Speed to iEnzoMC__]
-[04Dec2024 17:07:25.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Teleported iEnzoMC__ to CesitarTuTerror]
-[04Dec2024 17:07:32.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Applied effect Speed to iEnzoMC__]
-[04Dec2024 17:07:53.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Applied effect Nausea to iEnzoMC__]
-[04Dec2024 17:08:12.540] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 17:08:12.541] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 17:08:12.541] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 17:08:12.543] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 17:08:15.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Applied effect Speed to iEnzoMC__]
-[04Dec2024 17:08:19.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Applied effect Nausea to CesitarTuTerror]
-[04Dec2024 17:08:20.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Applied effect Speed to iEnzoMC__]
-[04Dec2024 17:08:34.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Applied effect Nausea to CesitarTuTerror]
-[04Dec2024 17:08:37.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Applied effect Speed to CesitarTuTerror]
-[04Dec2024 17:08:57.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Applied effect Levitation to iEnzoMC__]
-[04Dec2024 17:09:03.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Removed every effect from iEnzoMC__]
-[04Dec2024 17:09:12.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 17:09:12.540] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 17:09:12.541] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 17:09:12.542] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 17:09:23.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Applied effect Strength to 4 targets]
-[04Dec2024 17:09:29.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesitarTuTerror was slain by iEnzoMC__
-[04Dec2024 17:09:34.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iEnzoMC__> ez
-[04Dec2024 17:10:06.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Teleported CesitarTuTerror to iEnzoMC__]
-[04Dec2024 17:10:08.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Teleported iEnzoMC__ to CesitarTuTerror]
-[04Dec2024 17:10:12.587] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 17:10:12.589] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 17:10:12.589] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 17:10:12.593] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 17:10:37.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Applied effect Blindness to CesitarTuTerror]
-[04Dec2024 17:10:43.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Applied effect Invisibility to CesitarTuTerror]
-[04Dec2024 17:10:51.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Applied effect Invisibility to CesitarTuTerror]
-[04Dec2024 17:10:55.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Applied effect Invisibility to CesitarTuTerror]
-[04Dec2024 17:11:12.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 17:11:12.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 17:11:12.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 17:11:12.540] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 17:11:33.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ricomac12 has made the advancement [Ol' Betsy]
-[04Dec2024 17:11:33.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ricomac12 has made the advancement [Take Aim]
-[04Dec2024 17:11:42.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Applied effect Blindness to 4 targets]
-[04Dec2024 17:11:48.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Applied effect Blindness to 4 targets]
-[04Dec2024 17:11:52.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Applied effect Blindness to 4 targets]
-[04Dec2024 17:11:57.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Applied effect Blindness to iEnzoMC__]
-[04Dec2024 17:12:12.672] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 17:12:12.673] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 17:12:12.673] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 17:12:12.674] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 17:12:19.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Applied effect Speed to iEnzoMC__]
-[04Dec2024 17:12:21.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iEnzoMC__ moved too quickly! 17.786579390884526,-0.16191881354283755,1.6226680676979583
-[04Dec2024 17:12:30.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maintax has made the advancement [Monster Hunter]
-[04Dec2024 17:13:12.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 17:13:12.540] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 17:13:12.541] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 17:13:12.542] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 17:13:31.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Summoned new Lightning Bolt]
-[04Dec2024 17:13:36.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Summoned new Lightning Bolt]
-[04Dec2024 17:13:40.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Summoned new Lightning Bolt]
-[04Dec2024 17:13:49.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Summoned new Lightning Bolt]
-[04Dec2024 17:14:05.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maintax: Summoned new Warden]
-[04Dec2024 17:14:12.542] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 17:14:12.543] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 17:14:12.543] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 17:14:12.545] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 17:14:16.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iEnzoMC__ has made the advancement [Sneak 100]
-[04Dec2024 17:15:12.540] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 17:15:12.542] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 17:15:12.542] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 17:15:12.544] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 17:15:13.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iEnzoMC__ fell out of the world
-[04Dec2024 17:15:13.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ricomac12 fell out of the world
-[04Dec2024 17:15:13.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maintax fell out of the world
-[04Dec2024 17:15:13.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesitarTuTerror didn't want to live in the same world as Warden
-[04Dec2024 17:15:13.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Killed 89 entities]
-[04Dec2024 17:16:12.538] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 17:16:12.540] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 17:16:12.540] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 17:16:12.541] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 17:16:35.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Teleported iEnzoMC__ to ricomac12]
-[04Dec2024 17:17:12.711] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 17:17:12.711] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 17:17:12.712] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 17:17:12.713] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 17:17:37.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Teleported 4 entities to ricomac12]
-[04Dec2024 17:18:12.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 17:18:12.540] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 17:18:12.540] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 17:18:12.542] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 17:18:13.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesitarTuTerror has made the advancement [Monster Hunter]
-[04Dec2024 17:18:49.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Set own game mode to Spectator Mode]
-[04Dec2024 17:19:12.538] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 17:19:12.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 17:19:12.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 17:19:12.540] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 17:19:16.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Gave 1 [Iron Helmet] to CesitarTuTerror]
-[04Dec2024 17:20:03.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Teleported CesitarTuTerror to Maintax]
-[04Dec2024 17:20:12.538] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 17:20:12.538] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 17:20:12.538] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 17:20:12.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 17:20:42.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Set own game mode to Creative Mode]
-[04Dec2024 17:21:12.537] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 17:21:12.538] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 17:21:12.538] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 17:21:12.539] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 17:21:24.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesitarTuTerror was slain by iEnzoMC__
-[04Dec2024 17:21:29.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iEnzoMC__> al fin
-[04Dec2024 17:21:33.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iEnzoMC__> mano
-[04Dec2024 17:21:39.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesitarTuTerror fell from a high place
-[04Dec2024 17:21:39.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iEnzoMC__> se me rompio la espada
-[04Dec2024 17:21:51.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iEnzoMC__> de le el mundo bostos
-[04Dec2024 17:22:06.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesitarTuTerror tried to swim in lava
-[04Dec2024 17:22:12.648] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
-[04Dec2024 17:22:12.648] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
-[04Dec2024 17:22:12.649] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
-[04Dec2024 17:22:12.649] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
-[04Dec2024 17:22:18.440] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CesitarTuTerror lost connection: You logged in from another location
-[04Dec2024 17:22:18.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesitarTuTerror left the game
-[04Dec2024 17:22:18.441] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Player logged out: CesitarTuTerror, id: 3585
-[04Dec2024 17:22:18.449] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CesitarTuTerror[/[0:0:0:0:0:0:0:1%0]:39420] logged in with entity id 5931 at (7.778632709169562, 0.0, -0.30000001192092896)
-[04Dec2024 17:22:18.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CesitarTuTerror joined the game
-[04Dec2024 17:22:18.513] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Player logged in: CesitarTuTerror, id: 5931
-[04Dec2024 17:22:18.514] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Synced 0 buildings with player logged in
-[04Dec2024 17:22:21.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ricomac12: Set own game mode to Survival Mode]
+[06Jan2025 17:48:35.380] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[06Jan2025 17:48:35.384] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[06Jan2025 17:48:36.080] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[06Jan2025 17:48:36.141] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/pdp/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[06Jan2025 17:48:36.511] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/pdp/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[06Jan2025 17:48:36.512] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/pdp/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[06Jan2025 17:48:36.514] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/pdp/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[06Jan2025 17:48:36.516] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/pdp/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[06Jan2025 17:48:36.731] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
+[06Jan2025 17:48:40.147] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[06Jan2025 17:48:40.319] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[06Jan2025 17:48:40.536] [main/WARN] [mixin/]: Reference map 'mixins.call_of_yucutan.refmap.json' for mixins.call_of_yucutan.json could not be read. If this is a development environment you can ignore this message
+[06Jan2025 17:48:54.147] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+
+[06Jan2025 17:48:58.186] [modloading-worker-0/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Loading config: /workspaces/pdp/servidor_minecraft/config/illageandspillage-client.toml
+[06Jan2025 17:48:58.191] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[06Jan2025 17:48:58.191] [modloading-worker-0/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Built config: /workspaces/pdp/servidor_minecraft/config/illageandspillage-client.toml
+[06Jan2025 17:48:58.193] [modloading-worker-0/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Loaded config: /workspaces/pdp/servidor_minecraft/config/illageandspillage-client.toml
+[06Jan2025 17:48:58.193] [modloading-worker-0/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Loading config: /workspaces/pdp/servidor_minecraft/config/illageandspillage-common.toml
+[06Jan2025 17:48:58.194] [modloading-worker-0/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Built config: /workspaces/pdp/servidor_minecraft/config/illageandspillage-common.toml
+[06Jan2025 17:48:58.196] [modloading-worker-0/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Loaded config: /workspaces/pdp/servidor_minecraft/config/illageandspillage-common.toml
+[06Jan2025 17:48:58.196] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[06Jan2025 17:49:04.036] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[06Jan2025 17:49:05.726] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[06Jan2025 17:49:05.726] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[06Jan2025 17:49:05.727] [main/INFO] [terrablender/]: Registered region regions_unexplored:primary to index 1 for type OVERWORLD
+[06Jan2025 17:49:05.727] [main/INFO] [terrablender/]: Registered region regions_unexplored:secondary to index 2 for type OVERWORLD
+[06Jan2025 17:49:05.727] [main/INFO] [terrablender/]: Registered region regions_unexplored:nether to index 1 for type NETHER
+[06Jan2025 17:49:05.737] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[06Jan2025 17:49:05.804] [main/INFO] [com.eeeab.eeeabsmobs.EEEABMobs/]: Starting to register Curios item...
+[06Jan2025 17:49:05.808] [main/INFO] [journeymap/]: Initializing Packet Registries
+[06Jan2025 17:49:05.903] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[06Jan2025 17:49:05.904] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[06Jan2025 17:49:05.905] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[06Jan2025 17:49:05.905] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[06Jan2025 17:49:05.906] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of toughasnails:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 4
+[06Jan2025 17:49:05.906] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of toughasnails:water_canteen for Water (Fluid Amount Required: 200) with the ID 5
+[06Jan2025 17:49:05.907] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of toughasnails:water for Water (Fluid Amount Required: 1000) with the ID 6
+[06Jan2025 17:49:05.973] [modloading-worker-0/INFO] [com.eeeab.eeeabsmobs.EEEABMobs/]: Registering custom criteria trigger...
+[06Jan2025 17:49:06.050] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[06Jan2025 17:49:06.102] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[06Jan2025 17:49:06.113] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[06Jan2025 17:49:06.118] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[06Jan2025 17:49:06.120] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[06Jan2025 17:49:06.328] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[06Jan2025 17:49:06.328] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[06Jan2025 17:49:06.423] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:06.424] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:06.425] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:06.425] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:06.426] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:06.426] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:06.427] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:06.428] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:06.431] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:06.434] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:06.434] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:06.435] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:06.435] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:06.436] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:06.436] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:06.437] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:06.448] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:06.448] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:06.449] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:06.449] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:06.450] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:06.450] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:06.451] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:06.453] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:06.464] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:06.464] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:06.466] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:06.467] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:06.468] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:06.470] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:06.472] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:06.473] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:06.476] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:06.477] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:06.480] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:06.482] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:06.483] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:06.484] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:06.485] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:06.487] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:06.488] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:06.489] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:06.490] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:06.490] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:06.888] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.12 Target: null
+[06Jan2025 17:49:06.889] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[06Jan2025 17:49:07.061] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.19 Target: null
+[06Jan2025 17:49:07.061] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[06Jan2025 17:49:07.320] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
+[06Jan2025 17:49:12.098] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[06Jan2025 17:49:12.353] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:12.354] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:12.354] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:12.354] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:12.354] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:12.355] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:12.355] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:12.355] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:12.355] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:12.356] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:12.356] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:12.357] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:12.357] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:12.357] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:12.357] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:12.358] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:12.358] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:12.358] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:12.359] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:12.359] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:12.359] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:12.360] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:12.360] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:12.360] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:12.360] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:12.361] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:12.361] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:12.361] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:12.361] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:12.362] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:12.362] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:12.363] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:12.363] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:12.364] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:12.365] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:12.365] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:12.365] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:12.366] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:12.366] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:12.367] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:12.367] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:12.368] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:12.368] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:12.368] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:12.525] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:12.526] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:12.526] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:12.527] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:12.527] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:12.528] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:12.528] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:12.529] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:12.529] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:12.529] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:12.530] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:12.530] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:12.531] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:12.542] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:12.542] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:12.542] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:12.543] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:12.543] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:12.543] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:12.544] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:12.544] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:12.549] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:12.549] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:12.549] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:12.550] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:12.550] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:12.550] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:12.550] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:12.551] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:12.551] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:12.551] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:12.552] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:12.552] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:12.552] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:12.553] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:12.553] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:12.553] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:12.555] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:12.557] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:12.557] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:12.557] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:12.558] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:12.558] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[06Jan2025 17:49:12.559] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[06Jan2025 17:49:15.521] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/pdp/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23171!/assets/.mcassetsroot' uses unexpected schema
+[06Jan2025 17:49:15.522] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/pdp/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23171!/data/.mcassetsroot' uses unexpected schema
+[06Jan2025 17:49:19.156] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[06Jan2025 17:49:20.526] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:parcool:grant_parcool_guide
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'patchouli:guide_book'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.3.7-universal.jar%23176!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23176!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+[06Jan2025 17:49:23.084] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe parcool:parcool_guide
+com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23176!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23176!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151274_(ShapedRecipe.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:95) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:84) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23176!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[06Jan2025 17:49:23.169] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 11 recipes
+[06Jan2025 17:49:23.453] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3301 advancements
+[06Jan2025 17:49:23.467] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio slots
+[06Jan2025 17:49:23.473] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[06Jan2025 17:49:26.581] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[06Jan2025 17:49:26.582] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[06Jan2025 17:49:26.583] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SPECTATOR
+[06Jan2025 17:49:26.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[06Jan2025 17:49:26.799] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[06Jan2025 17:49:26.904] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[06Jan2025 17:49:27.154] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06Jan2025 17:49:27.154] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[06Jan2025 17:49:27.154] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06Jan2025 17:49:27.155] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[06Jan2025 17:49:27.202] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[06Jan2025 17:49:28.405] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[06Jan2025 17:49:28.406] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[06Jan2025 17:49:28.412] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[06Jan2025 17:49:44.174] [Server thread/INFO] [net.regions_unexplored.RegionsUnexploredMod/]: Loading dimension "minecraft:the_nether" with biome source: "minecraft:multi_noise".
+[06Jan2025 17:49:44.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[06Jan2025 17:49:49.020] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Jan2025 17:49:49.022] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Jan2025 17:49:49.027] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Jan2025 17:49:49.028] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Jan2025 17:49:49.029] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Jan2025 17:49:49.030] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Jan2025 17:49:49.031] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Jan2025 17:49:49.032] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Jan2025 17:49:49.034] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Jan2025 17:49:49.036] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Jan2025 17:49:49.177] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Jan2025 17:49:49.677] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Jan2025 17:49:50.418] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[06Jan2025 17:49:50.678] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[06Jan2025 17:49:50.991] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6814 ms
+[06Jan2025 17:49:50.998] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (23.806s)! For help, type "help"
+[06Jan2025 17:49:51.061] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[06Jan2025 17:49:51.124] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 14
+[06Jan2025 17:49:51.125] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 17
+[06Jan2025 17:49:51.126] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 16
+[06Jan2025 17:49:51.127] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! Modifiers ready: 28
+[06Jan2025 17:49:51.127] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! config file at: /workspaces/pdp/servidor_minecraft/./config/infernalmobs.cfg
+[06Jan2025 18:16:03.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[06Jan2025 18:16:03.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[06Jan2025 18:16:03.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[06Jan2025 18:16:03.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[06Jan2025 18:16:03.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06Jan2025 18:16:03.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06Jan2025 18:16:03.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06Jan2025 18:16:03.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06Jan2025 18:16:03.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06Jan2025 18:16:03.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06Jan2025 18:16:03.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06Jan2025 18:16:03.997] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
+[06Jan2025 18:16:03.998] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
+[06Jan2025 18:16:03.999] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.engineer from Raids to prevent a post-mod-removal crash
+[06Jan2025 18:16:03.999] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
+[06Jan2025 18:16:03.999] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
+[06Jan2025 18:16:04.000] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
+[06Jan2025 18:16:04.001] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
+[06Jan2025 18:16:04.001] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
+[06Jan2025 18:16:04.002] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
+[06Jan2025 18:16:04.002] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
+[06Jan2025 18:16:04.002] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_freakager from Raids to prevent a post-mod-removal crash
+[06Jan2025 18:16:04.005] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
+[06Jan2025 18:16:04.009] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
+[06Jan2025 18:16:04.011] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
+[06Jan2025 18:16:04.011] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.engineer from Raids to prevent a post-mod-removal crash
+[06Jan2025 18:16:04.012] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
+[06Jan2025 18:16:04.012] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
+[06Jan2025 18:16:04.012] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
+[06Jan2025 18:16:04.013] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
+[06Jan2025 18:16:04.013] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
+[06Jan2025 18:16:04.014] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
+[06Jan2025 18:16:04.014] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
+[06Jan2025 18:16:04.014] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_freakager from Raids to prevent a post-mod-removal crash
+[06Jan2025 18:16:04.015] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
+[06Jan2025 18:16:04.015] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
+[06Jan2025 18:16:04.016] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
+[06Jan2025 18:16:04.016] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.engineer from Raids to prevent a post-mod-removal crash
+[06Jan2025 18:16:04.018] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
+[06Jan2025 18:16:04.018] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
+[06Jan2025 18:16:04.019] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
+[06Jan2025 18:16:04.019] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
+[06Jan2025 18:16:04.020] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
+[06Jan2025 18:16:04.020] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
+[06Jan2025 18:16:04.021] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
+[06Jan2025 18:16:04.021] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_freakager from Raids to prevent a post-mod-removal crash
+[06Jan2025 18:16:04.023] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
+[06Jan2025 18:16:04.029] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
