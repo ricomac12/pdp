@@ -84,12 +84,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "unlock_right_away": "2025-01-06 03:02:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2024-12-04 16:53:09 +0000"
@@ -450,33 +444,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bookshelf": {
+  "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "has_book": "2025-01-06 03:22:56 +0000"
+      "unlock_right_away": "2025-01-06 03:02:04 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/magnet": {
+  "minecraft:husbandry/root": {
     "criteria": {
-      "scarlet": "2025-01-06 03:10:44 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/abyssal_bucket": {
-    "criteria": {
-      "sea_pig_bucket": "2025-01-06 03:18:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
-    "criteria": {
-      "has_ancient_debris": "2025-01-06 03:22:47 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2025-01-06 03:22:56 +0000"
+      "consumed_item": "2025-01-06 03:02:48 +0000"
     },
     "done": true
   },
@@ -486,57 +462,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/lectern": {
+  "travelersbackpack:recipes/misc/cow": {
     "criteria": {
-      "has_book": "2025-01-06 03:22:56 +0000"
+      "has_milk_bucket": "2025-01-06 03:03:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/cherry_boat": {
+  "alexscaves:alexscaves/jelly_bean": {
     "criteria": {
-      "in_water": "2025-01-06 03:11:53 +0000"
+      "mussel": "2025-01-06 03:05:24 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_scrap": {
+  "alexscaves:alexscaves/deepsight": {
     "criteria": {
-      "has_ancient_debris": "2025-01-06 03:22:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2025-01-06 03:22:56 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
-    "criteria": {
-      "has_book": "2025-01-06 03:22:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/bamboo_raft": {
-    "criteria": {
-      "in_water": "2025-01-06 03:11:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/writable_book": {
-    "criteria": {
-      "has_book": "2025-01-06 03:22:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_ancient_debris": {
-    "criteria": {
-      "ancient_debris": "2025-01-06 03:22:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-01-06 03:02:48 +0000"
+      "all_effects": "2025-01-06 03:05:36 +0000"
     },
     "done": true
   },
@@ -552,9 +492,81 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/straddler": {
+  "alexscaves:alexscaves/magnet": {
     "criteria": {
-      "killed_by": "2025-01-06 03:24:30 +0000"
+      "scarlet": "2025-01-06 03:10:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-01-06 03:11:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-01-06 03:11:53 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/abyssal_bucket": {
+    "criteria": {
+      "sea_pig_bucket": "2025-01-06 03:18:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-01-06 03:22:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-01-06 03:22:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-01-06 03:22:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-06 03:22:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-06 03:22:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-01-06 03:22:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-06 03:22:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-06 03:22:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-01-06 03:22:56 +0000"
     },
     "done": true
   },
@@ -570,21 +582,554 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/deepsight": {
+  "alexsmobs:alexsmobs/straddler": {
     "criteria": {
-      "all_effects": "2025-01-06 03:05:36 +0000"
+      "killed_by": "2025-01-06 03:24:30 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/cow": {
+  "mowziesmobs:root": {
     "criteria": {
-      "has_milk_bucket": "2025-01-06 03:03:57 +0000"
+      "custom_test_name": "2025-01-06 20:11:55 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/jelly_bean": {
+  "incendium:technical/new_player": {
     "criteria": {
-      "mussel": "2025-01-06 03:05:24 +0000"
+      "requirement": "2025-01-06 20:11:55 +0000"
+    },
+    "done": true
+  },
+  "parcool:grant_parcool_guide": {
+    "criteria": {
+      "tick": "2025-01-06 20:11:55 +0000"
+    },
+    "done": true
+  },
+  "eeeabsmobs:eeeabsmobs/root": {
+    "criteria": {
+      "requirement": "2025-01-06 20:11:55 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 20:12:02 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2025-01-06 20:12:02 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 20:12:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 20:12:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 20:12:02 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2025-01-06 20:14:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/magnolia_boat": {
+    "criteria": {
+      "in_water": "2025-01-06 20:14:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/kapok_boat": {
+    "criteria": {
+      "in_water": "2025-01-06 20:14:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/cypress_boat": {
+    "criteria": {
+      "in_water": "2025-01-06 20:14:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/larch_boat": {
+    "criteria": {
+      "in_water": "2025-01-06 20:14:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/blackwood_boat": {
+    "criteria": {
+      "in_water": "2025-01-06 20:14:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2025-01-06 20:14:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/eucalyptus_boat": {
+    "criteria": {
+      "in_water": "2025-01-06 20:14:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2025-01-06 20:14:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/socotra_boat": {
+    "criteria": {
+      "in_water": "2025-01-06 20:14:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-01-06 20:14:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2025-01-06 20:14:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/mauve_boat": {
+    "criteria": {
+      "in_water": "2025-01-06 20:14:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2025-01-06 20:14:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/baobab_boat": {
+    "criteria": {
+      "in_water": "2025-01-06 20:14:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2025-01-06 20:14:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/joshua_boat": {
+    "criteria": {
+      "in_water": "2025-01-06 20:14:03 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
+    "criteria": {
+      "has_obsidian": "2025-01-06 20:18:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-06 20:18:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-01-06 20:18:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-01-06 20:18:40 +0000"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-01-06 20:19:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-01-06 20:19:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-01-06 20:19:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:eternal_expedition": {
+    "criteria": {
+      "mycotoxic_undergrowth": "2025-01-06 20:21:14 +0000",
+      "infernal_holt": "2025-01-06 20:19:20 +0000",
+      "glistering_meadow": "2025-01-06 20:19:07 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "mycotoxic_undergrowth": "2025-01-06 20:21:14 +0000",
+      "glistering_meadow": "2025-01-06 20:19:07 +0000",
+      "infernal_holt": "2025-01-06 20:19:20 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/building_blocks/deepslate_viridescent_nylium": {
+    "criteria": {
+      "has_deepslate": "2025-01-06 20:34:13 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/deepslate_prismoss": {
+    "criteria": {
+      "has_deepslate": "2025-01-06 20:34:13 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/deepslate_grass_block": {
+    "criteria": {
+      "has_deepslate": "2025-01-06 20:34:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_brown_carpet": {
+    "criteria": {
+      "has_item": "2025-01-06 20:34:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_blue_carpet": {
+    "criteria": {
+      "has_item": "2025-01-06 20:34:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_purple_wool": {
+    "criteria": {
+      "has_wool": "2025-01-06 20:34:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_brown_wool": {
+    "criteria": {
+      "has_wool": "2025-01-06 20:34:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_lime_carpet": {
+    "criteria": {
+      "has_item": "2025-01-06 20:34:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_blue_carpet": {
+    "criteria": {
+      "has_item": "2025-01-06 20:34:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_blue_wool": {
+    "criteria": {
+      "has_wool": "2025-01-06 20:34:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_pink_wool": {
+    "criteria": {
+      "has_wool": "2025-01-06 20:34:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_yellow_carpet": {
+    "criteria": {
+      "has_item": "2025-01-06 20:34:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cyan_wool": {
+    "criteria": {
+      "has_wool": "2025-01-06 20:34:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_white_carpet": {
+    "criteria": {
+      "has_item": "2025-01-06 20:34:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_black_carpet": {
+    "criteria": {
+      "has_item": "2025-01-06 20:34:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_black_wool": {
+    "criteria": {
+      "has_wool": "2025-01-06 20:34:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_lime_wool": {
+    "criteria": {
+      "has_wool": "2025-01-06 20:34:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_blue_wool": {
+    "criteria": {
+      "has_wool": "2025-01-06 20:34:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_gray_wool": {
+    "criteria": {
+      "has_wool": "2025-01-06 20:34:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_gray_carpet": {
+    "criteria": {
+      "has_item": "2025-01-06 20:34:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_pink_carpet": {
+    "criteria": {
+      "has_item": "2025-01-06 20:34:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_white_wool": {
+    "criteria": {
+      "has_wool": "2025-01-06 20:34:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_magenta_wool": {
+    "criteria": {
+      "has_wool": "2025-01-06 20:34:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_red_carpet": {
+    "criteria": {
+      "has_item": "2025-01-06 20:34:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_green_carpet": {
+    "criteria": {
+      "has_item": "2025-01-06 20:34:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_red_wool": {
+    "criteria": {
+      "has_wool": "2025-01-06 20:34:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_gray_carpet": {
+    "criteria": {
+      "has_item": "2025-01-06 20:34:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_orange_carpet": {
+    "criteria": {
+      "has_item": "2025-01-06 20:34:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_gray_wool": {
+    "criteria": {
+      "has_wool": "2025-01-06 20:34:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_magenta_carpet": {
+    "criteria": {
+      "has_item": "2025-01-06 20:34:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_purple_carpet": {
+    "criteria": {
+      "has_item": "2025-01-06 20:34:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_yellow_wool": {
+    "criteria": {
+      "has_wool": "2025-01-06 20:34:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_green_wool": {
+    "criteria": {
+      "has_wool": "2025-01-06 20:34:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_orange_wool": {
+    "criteria": {
+      "has_wool": "2025-01-06 20:34:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cyan_carpet": {
+    "criteria": {
+      "has_item": "2025-01-06 20:34:27 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 20:35:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-01-06 20:36:24 +0000",
+      "log_spam_fixer": "2025-01-06 20:35:48 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 20:35:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 20:35:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 20:35:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 20:35:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 20:35:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 20:35:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 20:35:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 20:35:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 20:35:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 20:35:48 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/birch_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-06 20:36:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-01-06 20:36:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-01-06 20:36:09 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/oak_branch_from_oak_log": {
+    "criteria": {
+      "has_log": "2025-01-06 20:36:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-01-06 20:36:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sc_manual": {
+    "criteria": {
+      "has_wood": "2025-01-06 20:36:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-06 20:36:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2025-01-06 20:36:09 +0000"
     },
     "done": true
   },
